@@ -116,9 +116,9 @@ def upload_file():
                 df = pd.read_csv(file)
                 
                 # Check if required columns exist (using the actual column names from the CSV)
-                required_columns = ['name', 'description', 'websiteURL']
+                required_columns = ['name', 'description', 'website']
                 if not all(col in df.columns for col in required_columns):
-                    flash('CSV must contain name, description, and websiteURL columns')
+                    flash('CSV must contain name, description, and website columns')
                     return render_template('index.html')
                 
                 # Process each company
@@ -130,11 +130,11 @@ def upload_file():
                     analysis = analyze_company(full_description)
                     score = extract_score(analysis)
                     
-                    # Only include companies with score >= 5
-                    if score >= 5:
+                    # Only include companies with score >= 7
+                    if score >= 7:
                         results.append({
                             'name': row['name'],
-                            'url': row['websiteURL'],
+                            'url': row['website'],
                             'analysis': analysis,
                             'score': score
                         })
@@ -152,7 +152,7 @@ def upload_file():
                 if len(results) > 100:
                     excel_file = create_excel_file(results)
                 
-                flash(f'File processed successfully! Found {len(results)} companies with score >= 5/10.')
+                flash(f'File processed successfully! Found {len(results)} companies with score >= 7/10.')
                 return render_template('index.html', results=results[:100], total_results=len(results), excel_file=excel_file)
                 
             except Exception as e:
