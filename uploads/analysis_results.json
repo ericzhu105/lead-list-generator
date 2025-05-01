@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Veeam Kasten",
+    "url": "veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "1. Fit Score: 7/10\n2. Explanation: The company providing an enterprise data management platform for Kubernetes backup and disaster recovery may find Aviato.co's Data API for People & Company profiles useful when targeting B2B companies in the tech industry. While the primary focus of Aviato.co is on providing data on tech workers, there could be potential overlap in serving B2B companies that require data on companies and individuals for enrichment purposes.\n3. Verdict: Maybe\n\nBased on the provided company description, the likelihood of them being a customer of Aviato.co falls into the 'Maybe' category as there is a potential fit with the target customer profile, albeit with some overlap.",
+    "score": 7
+  },
+  {
+    "name": "Flume Health",
+    "url": "flumehealth.com",
+    "analysis": "1. Fit Score: 7/10\n2. Brief Explanation: While the company offers a tool to modernize data operations, it does not specifically mention the need for data on people and companies, particularly focusing on work experience, job history, and compensation related to tech workers. However, the tool may be beneficial for companies looking to streamline their data integration and movement processes.\n3. Verdict: Maybe. The company could potentially benefit from Aviato.co's Data API for People & Company profiles if they are looking to enhance their data operations and streamline processes, but it is not a direct fit based on the specified criteria.",
+    "score": 7
+  }
+]
