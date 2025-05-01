@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Analysis Tool</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .upload-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .upload-form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .file-input {
+            padding: 10px;
+            border: 2px dashed #ccc;
+            border-radius: 4px;
+        }
+        .submit-btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .submit-btn:hover {
+            background-color: #0056b3;
+        }
+        .flash-messages {
+            margin-bottom: 20px;
+        }
+        .flash-message {
+            padding: 10px;
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+            color: #155724;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .results-table th, .results-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .results-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        .results-table tr:hover {
+            background-color: #f5f5f5;
+        }
+        .company-name {
+            font-weight: bold;
+        }
+        .company-url {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .company-url:hover {
+            text-decoration: underline;
+        }
+        .analysis {
+            white-space: pre-wrap;
+        }
+        .download-section {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .download-btn {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .download-btn:hover {
+            background-color: #218838;
+        }
+        .results-info {
+            margin: 10px 0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="upload-container">
+        <h1>Company Analysis Tool</h1>
+        
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for message in messages %}
+                        <div class="flash-message">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+
+        <form class="upload-form" method="post" enctype="multipart/form-data">
+            <div class="file-input">
+                <input type="file" name="file" accept=".csv" required>
+            </div>
+            <button type="submit" class="submit-btn">Upload and Analyze CSV</button>
+        </form>
+    </div>
+
+    {% if results %}
+    <div class="upload-container">
+        <h2>Analysis Results</h2>
+        
+        {% if total_results > 100 %}
+        <div class="download-section">
+            <p>Showing first 100 of {{ total_results }} results</p>
+            <p>Download the complete analysis:</p>
+            <a href="{{ url_for('download_file', filename=excel_file.split('/')[-1]) }}" class="download-btn">Download Full Results (Excel)</a>
+        </div>
+        {% endif %}
+
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Company Name</th>
+                    <th>URL</th>
+                    <th>Analysis</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for result in results %}
+                <tr>
+                    <td class="company-name">{{ result.name }}</td>
+                    <td><a href="{{ result.url }}" class="company-url" target="_blank">{{ result.url }}</a></td>
+                    <td class="analysis">{{ result.analysis }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+</body>
+</html> 

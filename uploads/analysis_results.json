@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Retool",
+    "url": "retool.com",
+    "analysis": "1. Fit Score: 8/10\n2. Explanation: Aviato.co would likely be a good fit for this company as they are in the software industry and could benefit from accessing data API for people and company profiles to enhance their internal apps. By leveraging Aviato.co's data, they can build more tailored and efficient software tools for their enterprise software and productivity tools.\n3. Verdict: Yes, this company would be a good fit based on the criteria provided.",
+    "score": 8
+  },
+  {
+    "name": "Cart.com",
+    "url": "cart.com",
+    "analysis": "1. Fit Score: 5/10\n2. Explanation: Based on the criteria provided, Cart.com may fall somewhere in the middle in terms of fit for Aviato.co. While Cart.com falls under the Logistics and Software industries, the description does not specifically indicate a need for the type of data provided by Aviato.co (People & Company profiles data primarily for tech workers). However, as a logistics solutions provider, Cart.com may have a potential use for B2B company data for enrichment purposes.\n3. Decision: Maybe",
+    "score": 5
+  }
+]
