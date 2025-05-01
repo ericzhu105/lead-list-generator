@@ -5,6 +5,12 @@ import openai
 import pandas as pd
 import json
 from datetime import datetime
+import traceback
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 # Load environment variables
 load_dotenv()
@@ -14,6 +20,8 @@ app.secret_key = 'your-secret-key-here'  # Required for flashing messages
 
 # Configure OpenAI
 openai.api_key = os.getenv('OPENAI_API_KEY')
+if not openai.api_key:
+    logger.error("OpenAI API key not found in environment variables")
 
 # Configure upload folder
 UPLOAD_FOLDER = 'uploads'
@@ -21,7 +29,8 @@ if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
 def analyze_company(description):
-    prompt = """You are a sales qualifier for customers for Aviato.co. Analyze if this company would be a good fit based on the following criteria:
+    try:
+        prompt = """You are a sales qualifier for customers for Aviato.co. Analyze if this company would be a good fit based on the following criteria:
 Our product: Data API for People & Company profiles, with data on work experience, email, job history, compensation, etc primarily for tech workers.
 Good fit examples:
 - AI Recruiting tools
@@ -62,7 +71,6 @@ Please analyze this company description and provide:
 
 Company description to analyze: """
 
-    try:
         response = openai.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
@@ -72,6 +80,8 @@ Company description to analyze: """
         )
         return response.choices[0].message.content
     except Exception as e:
+        logger.error(f"Error in analyze_company: {str(e)}")
+        logger.error(traceback.format_exc())
         return f"Error analyzing company: {str(e)}"
 
 def extract_score(analysis):
@@ -82,92 +92,116 @@ def extract_score(analysis):
         if score_match:
             return int(score_match.group(1))
         return 0
-    except:
+    except Exception as e:
+        logger.error(f"Error in extract_score: {str(e)}")
         return 0
 
 def create_excel_file(results):
-    # Create a DataFrame from the results
-    df = pd.DataFrame(results)
-    
-    # Generate filename with timestamp
-    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    excel_file = os.path.join(UPLOAD_FOLDER, f'analysis_results_{timestamp}.xlsx')
-    
-    # Save to Excel
-    df.to_excel(excel_file, index=False)
-    return excel_file
+    try:
+        # Create a DataFrame from the results
+        df = pd.DataFrame(results)
+        
+        # Generate filename with timestamp
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        excel_file = os.path.join(UPLOAD_FOLDER, f'analysis_results_{timestamp}.xlsx')
+        
+        # Save to Excel
+        df.to_excel(excel_file, index=False)
+        return excel_file
+    except Exception as e:
+        logger.error(f"Error in create_excel_file: {str(e)}")
+        logger.error(traceback.format_exc())
+        return None
 
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
-        if 'file' not in request.files:
-            flash('No file selected')
-            return render_template('index.html')
-        
-        file = request.files['file']
-        
-        if file.filename == '':
-            flash('No file selected')
-            return render_template('index.html')
-        
-        if file and file.filename.endswith('.csv'):
-            try:
-                # Read the CSV file
-                df = pd.read_csv(file)
-                
-                # Check if required columns exist (using the actual column names from the CSV)
-                required_columns = ['name', 'description', 'website']
-                if not all(col in df.columns for col in required_columns):
-                    flash('CSV must contain name, description, and website columns')
-                    return render_template('index.html')
-                
-                # Process each company
-                results = []
-                for _, row in df.iterrows():
-                    # Add industry information to the description for better context
-                    full_description = f"{row['description']}\nIndustries: {row['industryList']}" if 'industryList' in row else row['description']
+        try:
+            if 'file' not in request.files:
+                flash('No file selected')
+                return render_template('index.html')
+            
+            file = request.files['file']
+            
+            if file.filename == '':
+                flash('No file selected')
+                return render_template('index.html')
+            
+            if file and file.filename.endswith('.csv'):
+                try:
+                    # Read the CSV file
+                    df = pd.read_csv(file)
+                    logger.debug(f"CSV columns: {df.columns.tolist()}")
                     
-                    analysis = analyze_company(full_description)
-                    score = extract_score(analysis)
+                    # Check if required columns exist
+                    required_columns = ['name', 'description', 'website']
+                    if not all(col in df.columns for col in required_columns):
+                        missing_cols = [col for col in required_columns if col not in df.columns]
+                        flash(f'Missing required columns: {", ".join(missing_cols)}')
+                        return render_template('index.html')
                     
-                    # Only include companies with score >= 7
-                    if score >= 7:
-                        results.append({
-                            'name': row['name'],
-                            'url': row['website'],
-                            'analysis': analysis,
-                            'score': score
-                        })
-                
-                # Sort results by score in descending order
-                results.sort(key=lambda x: x['score'], reverse=True)
-                
-                # Save results to a JSON file
-                results_file = os.path.join(UPLOAD_FOLDER, 'analysis_results.json')
-                with open(results_file, 'w') as f:
-                    json.dump(results, f, indent=2)
-                
-                # If more than 100 results, create Excel file
-                excel_file = None
-                if len(results) > 100:
-                    excel_file = create_excel_file(results)
-                
-                flash(f'File processed successfully! Found {len(results)} companies with score >= 7/10.')
-                return render_template('index.html', results=results[:100], total_results=len(results), excel_file=excel_file)
-                
-            except Exception as e:
-                flash(f'Error processing file: {str(e)}')
-                raise e  # This will show the full error in debug mode
-        else:
-            flash('Please upload a CSV file')
-        
-        return render_template('index.html')
+                    # Process each company
+                    results = []
+                    for index, row in df.iterrows():
+                        try:
+                            # Add industry information to the description for better context
+                            full_description = f"{row['description']}\nIndustries: {row['industryList']}" if 'industryList' in row else row['description']
+                            
+                            analysis = analyze_company(full_description)
+                            score = extract_score(analysis)
+                            
+                            # Only include companies with score >= 7
+                            if score >= 7:
+                                results.append({
+                                    'name': row['name'],
+                                    'url': row['website'],
+                                    'analysis': analysis,
+                                    'score': score
+                                })
+                        except Exception as e:
+                            logger.error(f"Error processing row {index}: {str(e)}")
+                            continue
+                    
+                    # Sort results by score in descending order
+                    results.sort(key=lambda x: x['score'], reverse=True)
+                    
+                    # Save results to a JSON file
+                    results_file = os.path.join(UPLOAD_FOLDER, 'analysis_results.json')
+                    with open(results_file, 'w') as f:
+                        json.dump(results, f, indent=2)
+                    
+                    # If more than 100 results, create Excel file
+                    excel_file = None
+                    if len(results) > 100:
+                        excel_file = create_excel_file(results)
+                    
+                    flash(f'File processed successfully! Found {len(results)} companies with score >= 7/10.')
+                    return render_template('index.html', results=results[:100], total_results=len(results), excel_file=excel_file)
+                    
+                except Exception as e:
+                    logger.error(f"Error processing CSV: {str(e)}")
+                    logger.error(traceback.format_exc())
+                    flash(f'Error processing file: {str(e)}')
+            else:
+                flash('Please upload a CSV file')
+            
+            return render_template('index.html')
+        except Exception as e:
+            logger.error(f"Error in upload_file: {str(e)}")
+            logger.error(traceback.format_exc())
+            flash(f'An unexpected error occurred: {str(e)}')
+            return render_template('index.html')
     
     return render_template('index.html')
 
 @app.route('/download/<filename>')
 def download_file(filename):
-    return send_file(os.path.join(UPLOAD_FOLDER, filename), as_attachment=True)
+    try:
+        return send_file(os.path.join(UPLOAD_FOLDER, filename), as_attachment=True)
+    except Exception as e:
+        logger.error(f"Error downloading file: {str(e)}")
+        flash('Error downloading file')
+        return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8080) 
+    app.run(debug=True, port=5000)  # Changed to port 5000 
