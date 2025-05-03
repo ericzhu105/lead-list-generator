@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\n\nExplanation: Stanza fits as a definite yes because it is a company that can benefit from Aviato.co's Data API for People & Company profiles. Stanza is focused on building smarter scheduling software for businesses and teams, which can greatly benefit from having detailed data on work experience, job history, and other relevant information about tech workers.\n\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Based on the criteria provided, Aviato.co would be a good fit for the following reasons:\n1. Their product aligns well with AI recruiting tools that require people data.\n2. Their offering of data API for People & Company profiles, particularly geared towards tech workers, matches the needs of companies looking for data on work experience, email, job history, compensation, etc.\n\nTherefore, Aviato.co receives a Fit Score of 9/10. This company is a DEFINITE YES based on the clear alignment of their product with companies that require data on people and companies for enrichment, specifically within the tech worker segment.\n\n**Verdict: YES**",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co because it is explicitly mentioned that they provide a platform for global CXO leaders in sales and talent domains, offering real-time data on companies and decision-makers. This aligns well with Aviato.co's Data API for People & Company profiles, especially for sales and talent teams seeking intelligent data-backed decisions.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "1. Score: 8/10\n2. Explanation: This company would be a good fit because they provide a data platform that emphasizes collaboration, data visualization, and data versioning through MLflow. These features align well with the nature of Aviato.co's product, which offers Data API for People & Company profiles. The potential synergy between the two platforms could enhance the customer's data management and enrichment capabilities specifically for tech workers.\n3. Verdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Ebyline, Inc. an IZEA Innovation",
+    "url": "https://ebyline.com",
+    "analysis": "Score: 8/10\n\nExplanation: The company is a good fit as they operate a content creator data platform connecting freelancers and companies. They host experienced freelancers across various fields, including technical writers and graphic designers, which aligns with Aviato.co's data API for people profiles, especially for tech workers. This alignment suggests a clear need for people data in connecting freelancers with companies and vice versa.\n\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "Score: 9/10  \nExplanation: Laudable's AI-based solution targets customer testimonials and reviews, which indicates a need for customer data. Moreover, mining data from Gong and Chorus call recordings suggests a focus on extracting insights from interactions, which aligns with the type of data Aviato.co provides.  \nVerdict: YES",
+    "score": 9
+  }
+]
