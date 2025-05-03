@@ -1,0 +1,354 @@
+{
+  "current": 50,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 49,
+  "current_company": "RouteThis",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249731.948987,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249732.341912,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.108126,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.254327,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.911042,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249734.432559,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249735.28343,
+      "analysis_time": 2.5
+    },
+    {
+      "name": "Impraise",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249735.561235,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249736.236724,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249736.900189,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Dura Software",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249737.611995,
+      "analysis_time": 1.6
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249737.784192,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249738.642791,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "DataChat",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249739.224154,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249739.783248,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249740.319052,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Addressable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249740.748661,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Docket",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249741.039926,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Pump.co",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249741.549894,
+      "analysis_time": 1.8
+    },
+    {
+      "name": "Terminal ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249742.006728,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Galileo",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249743.118296,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "BioRender",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249743.344264,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Perygee",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249743.84414,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249744.049088,
+      "analysis_time": 0.0
+    },
+    {
+      "name": "120Water",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249744.049254,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "CastleLine",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249744.594995,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249745.250171,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Edgegap",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249745.371816,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "DocbookMD",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249746.298652,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "LUK Network",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249746.509978,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Oka, The Carbon Insurance Company",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249747.053326,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "nVision Medical",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249747.621324,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Cargobot",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249748.084426,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Zip Security",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249748.584449,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Gluent",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249748.830737,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Yesware",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249749.873731,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Anzen Insurance",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249749.893063,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Orpyx Medical Technologies",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249750.933004,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "IoTium",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249751.409719,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Peach",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249751.822081,
+      "analysis_time": 1.7
+    },
+    {
+      "name": "PRIVIT",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249752.210339,
+      "analysis_time": 1.8
+    },
+    {
+      "name": "Hometeam ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249753.48051,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "A2 Biotherapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249753.997157,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "HotSpot Therapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249754.184421,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Ambient Photonics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249755.101556,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Draup",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249755.382214,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Evo Security",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249755.949043,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Monogoto",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249756.172458,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "RouteThis",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249757.042451,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249731.947836
+}

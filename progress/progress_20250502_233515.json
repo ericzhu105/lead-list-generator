@@ -1,0 +1,102 @@
+{
+  "current": 30,
+  "total": 7207,
+  "status": "idle",
+  "processed_companies": 0,
+  "analyzed_companies": 10,
+  "current_company": "nVision Medical",
+  "company_progress": [
+    {
+      "name": "Galileo",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254111.155475,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Perygee",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254111.166247,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CastleLine",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254111.173114,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Edgegap",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254111.181478,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DocbookMD",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254111.18781,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254112.818665,
+      "analysis_time": 3.0,
+      "retry_count": 3,
+      "error_message": "can only concatenate str (not \"float\") to str"
+    },
+    {
+      "name": "120Water",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254112.825253,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254112.838828,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "LUK Network",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254112.850006,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "nVision Medical",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254112.857578,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    }
+  ],
+  "start_time": null,
+  "should_stop": false
+}

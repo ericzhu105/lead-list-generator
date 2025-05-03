@@ -1,0 +1,2822 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-280' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ed070>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-281' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-282' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-283' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-284' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-285' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478801c0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-286' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-287' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-288' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-289' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Dura Software",
+    "url": "https://dura.software",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-290' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779a370>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "DataChat",
+    "url": "https://datachat.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-291' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BoomerangFX",
+    "url": "https://boomerangfx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-292' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Docket",
+    "url": "https://usedocket.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-293' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Terminal ",
+    "url": "https://withterminal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-294' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Colabo Inc ",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-295' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779ac10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SuperOrdinary",
+    "url": "https://superordinary.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-296' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Addressable",
+    "url": "https://elitelistings.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-297' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Pump.co",
+    "url": "https://pump.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-298' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BioRender",
+    "url": "https://biorender.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-299' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Galileo",
+    "url": "https://galileo.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-300' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5220>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Perygee",
+    "url": "https://perygee.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-301' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CastleLine",
+    "url": "https://altisource.com/originations/insurance-castleline",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-302' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Edgegap",
+    "url": "https://edgegap.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-303' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "DocbookMD",
+    "url": "https://docbookmd.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-304' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Salmedix Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-305' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5ee0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "120Water",
+    "url": "https://120water.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-306' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ability Biologics",
+    "url": "https://ability.bio/en",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-307' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "LUK Network",
+    "url": "https://luknetwork.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-308' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "nVision Medical",
+    "url": "https://active-genetics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-309' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Oka, The Carbon Insurance Company",
+    "url": "https://carboninsurance.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-310' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccee0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cargobot",
+    "url": "https://cargobot.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-311' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Gluent",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-312' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Anzen Insurance",
+    "url": "https://anzen.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-313' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Orpyx Medical Technologies",
+    "url": "https://orpyx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-314' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Zip Security",
+    "url": "https://zipsec.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-315' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5280>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Yesware",
+    "url": "https://yesware.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-316' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IoTium",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-317' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "PRIVIT",
+    "url": "https://privit.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-318' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "A2 Biotherapeutics, Inc.",
+    "url": "https://a2bio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-319' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-320' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502cc70>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hometeam ",
+    "url": "https://careguardianinc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-321' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "HotSpot Therapeutics, Inc.",
+    "url": "https://hotspotthera.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-322' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-323' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Monogoto",
+    "url": "https://monogoto.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-324' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ambient Photonics",
+    "url": "https://ambientphotonics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-325' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502ccd0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Evo Security",
+    "url": "https://evosecurity.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-326' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RouteThis",
+    "url": "https://routethis.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-327' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-328' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Lyatiss",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-329' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Intelon Optics",
+    "url": "https://intelon.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-330' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880f40>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "WingWork",
+    "url": "https://wingwork.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-331' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Andium",
+    "url": "https://andium.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-332' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cortex",
+    "url": "https://cortexhc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-333' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Performive",
+    "url": "https://performive.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-334' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "LuckyTruck",
+    "url": "https://luckytruck.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-335' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880670>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "E-ppraisal",
+    "url": "https://eppraisal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-336' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ReturnLogic",
+    "url": "https://returnlogic.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-337' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Center ",
+    "url": "https://getcenter.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-338' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Versanis Bio",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-339' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kapital",
+    "url": "https://bancoautofin.mx",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-340' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478edc70>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Horizon3.ai",
+    "url": "https://horizon3.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-341' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Xooker",
+    "url": "https://xooker.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-342' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Octet Scientific, Inc.",
+    "url": "https://octetsci.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-343' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ALLO - Backed by Zoom",
+    "url": "https://allo.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-344' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Neomar",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-345' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14782e7f0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CommonGround",
+    "url": "https://commonground.io/app",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-346' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Artio Medical, Inc.",
+    "url": "https://artio.net",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-347' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Audit Sight Inc.",
+    "url": "https://auditsight.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-348' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Compliable",
+    "url": "https://compliable.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-349' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vivid Theory",
+    "url": "https://vividtheory.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-350' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aa340>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Spekit",
+    "url": "https://spekit.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-351' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ebyline, Inc. an IZEA Innovation",
+    "url": "https://ebyline.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-352' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tanbark Molded Fiber Products",
+    "url": "https://tanbarkmfp.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-353' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RNAimmune",
+    "url": "https://rnaimmune.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-354' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ownify",
+    "url": "https://ownify.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-355' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccdf0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Nexosome Oncology",
+    "url": "https://nexosome-oncology.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-356' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "HireAthena",
+    "url": "https://hireathena.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-357' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Sharper Shape Group",
+    "url": "https://sharpershape.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-358' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ThreeKit",
+    "url": "https://threekit.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-359' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Atomic Industries",
+    "url": "https://atomic.industries",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-360' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880670>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Fuisz Video, Inc.",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-361' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IGNITE IMPULSE, INC.",
+    "url": "https://igniteimpulse.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-362' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "OEwaves Inc.",
+    "url": "https://oewaves.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-363' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hubly Inc",
+    "url": "https://myhubly.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-364' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Avstera Therapeutics Inc.",
+    "url": "https://avstera.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-365' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478cc1c0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RapidValue",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-366' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Monograph",
+    "url": "https://monograph.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-367' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "X-energy",
+    "url": "https://x-energy.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-368' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Assured Allies",
+    "url": "https://assuredallies.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-369' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "VergeSense",
+    "url": "https://vergesense.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-370' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147b21eb0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Prellis Biologics",
+    "url": "https://prellisbio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-371' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BlockSpaces",
+    "url": "https://blockspaces.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-372' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ReNAgade Therapeutics",
+    "url": "https://renagadetx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-373' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Dispatch",
+    "url": "https://dispatch.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-374' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BlueRock Therapeutics",
+    "url": "https://bluerocktx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-375' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478cc610>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vectara",
+    "url": "https://vectara.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-376' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Brightline",
+    "url": "https://hellobrightline.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-377' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CinRx Pharma",
+    "url": "https://cinrx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-378' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CyberMDX - A Forescout Company",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-379' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kard",
+    "url": "https://getkard.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-380' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5ac0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tropic",
+    "url": "https://tropicapp.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-381' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "nBand Communications",
+    "url": "https://sedo.com/search/details",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-382' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Canalyst",
+    "url": "https://canalyst.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-383' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CGE Energy",
+    "url": "https://cgeenergy.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-384' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Adjuvance Technologies, Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-385' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5f10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IMAJION",
+    "url": "https://sitelink.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-386' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "mozaic.io",
+    "url": "https://mozaic.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-387' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "FleetNurse",
+    "url": "https://cascadefn.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-388' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "My Intelligent Machines Inc.",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-389' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hopkins Bellemeade",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-390' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aaca0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kriya Therapeutics, Inc.",
+    "url": "https://kriyatherapeutics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-391' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Amytrx Therapeutics, Inc.",
+    "url": "https://amytrx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-392' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Fennel",
+    "url": "https://fennel.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-393' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Aelita Software",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-394' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Renal Solutions",
+    "url": "https://techevolution.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-395' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5130>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Highway Benefits",
+    "url": "https://highwaybenefits.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-396' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "FI Navigator Corporation",
+    "url": "https://fi-navigator.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-397' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Air Space Intelligence",
+    "url": "https://airspace-intelligence.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-398' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Porosity",
+    "url": "https://porosity.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-399' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Spring Science",
+    "url": "https://springscience.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-400' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502ccd0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-401' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Gestalt",
+    "url": "https://gestaltdiagnostics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-402' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ReGelTec, Inc",
+    "url": "https://regeltec.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-403' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BlackFog",
+    "url": "https://blackfog.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-404' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Akiri",
+    "url": "https://akiri.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-405' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502ca30>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Retrium",
+    "url": "https://retrium.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-406' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Resurface Labs",
+    "url": "https://graylog.org",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-407' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ojjo, Inc.",
+    "url": "https://nextracker.com/foundations",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-408' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AffaMed Therapeutics",
+    "url": "https://affamed.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-409' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CoinBanken",
+    "url": "https://coinbanken.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-410' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478802b0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "1Konto",
+    "url": "https://1konto.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-411' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Connected Data",
+    "url": "https://nexsan.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-412' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Soteria Biotherapeutics",
+    "url": "https://soteriabiotherapeutics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-413' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BioPoly",
+    "url": "https://biopolyortho.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-414' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AI Dynamics",
+    "url": "https://aidynamics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-415' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880670>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cove",
+    "url": "https://cove.is",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-416' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "MSBAI ",
+    "url": "https://microsurgeonbot.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-417' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Together AI",
+    "url": "https://together.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-418' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AppStream",
+    "url": "https://appstream.it",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-419' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "DeepBrain AI",
+    "url": "https://aistudios.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-420' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ed730>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "FX HedgePool",
+    "url": "https://fxhedgepool.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-421' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "3T Biosciences",
+    "url": "https://3tbiosciences.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-422' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cotherix",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-423' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "PreAct Technologies",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-424' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Logiwa",
+    "url": "https://logiwa.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-425' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14782e490>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SKAEL",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-426' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Debut",
+    "url": "https://debutbiotech.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-427' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Eyebot",
+    "url": "https://eyebot.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-428' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Outplay",
+    "url": "https://outplay.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-429' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Lower",
+    "url": "https://lower.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-430' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aa340>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "System 9, Inc.",
+    "url": "https://system9.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-431' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ChartHop",
+    "url": "https://charthop.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-432' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Zmanda",
+    "url": "https://zmanda.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-433' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Afficiency",
+    "url": "https://afficiency.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-434' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CartUp AI",
+    "url": "https://cartup.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-435' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccdf0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BuzzCast",
+    "url": "https://buzzcast.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-436' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "EDGE Markets",
+    "url": "https://edgeboost.bet",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-437' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Nuqleous",
+    "url": "https://nuqleous.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-438' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ricult",
+    "url": "https://ricult.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-439' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Fingerprint",
+    "url": "https://fingerprintplay.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-440' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880370>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Glydways",
+    "url": "https://glydways.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-441' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Zone7",
+    "url": "https://zone7.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-442' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Paige",
+    "url": "https://paige.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-443' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "methinks",
+    "url": "https://methinks.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-444' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BACKBONE",
+    "url": "https://backbone.digital",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-445' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880670>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Zuper",
+    "url": "https://zuper.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-446' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CGTime",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-447' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Sunflower Therapeutics",
+    "url": "https://sunflowertx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-448' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Mulberry",
+    "url": "https://getmulberry.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-449' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Melzi Corporation",
+    "url": "https://melzisurgical.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-450' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779ad00>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Calico",
+    "url": "https://joincalico.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-451' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Axiom Space",
+    "url": "https://axiomspace.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-452' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Level",
+    "url": "https://levelgoals.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-453' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Dimension Inx",
+    "url": "https://dimensioninx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-454' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vividon, Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-455' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccc10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Backpack",
+    "url": "https://backpack.exchange",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-456' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ezra AI",
+    "url": "https://ezra.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-457' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "adonis",
+    "url": "https://adonis.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-458' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "PayVMS",
+    "url": "https://payvms.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-459' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Assurified",
+    "url": "https://assurified.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-460' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5be0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Qingdao Jianxin Medical Technology",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-461' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Parcl",
+    "url": "https://parcl.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-462' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Lynq Technologies",
+    "url": "https://lynqnetworks.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-463' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Release",
+    "url": "https://release.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-464' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Neutral",
+    "url": "https://eatneutral.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-465' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5cd0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Felix",
+    "url": "https://felixpago.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-466' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Halborn",
+    "url": "https://halborn.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-467' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Velocity",
+    "url": "https://velocity.tech",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-468' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Radian Aerospace",
+    "url": "https://radianaerospace.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-469' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Arch",
+    "url": "https://arch.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-470' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aaca0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tera Systems",
+    "url": "https://perfectdomain.com/domain/terasystems.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-471' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Plenful",
+    "url": "https://plenful.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-472' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Pluralytics AI",
+    "url": "https://pluralytics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-473' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CarbonBuilt",
+    "url": "https://carbonbuilt.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-474' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ultra RPM",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-475' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f52e0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Simplify ASC",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-476' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Gestion T2C2/Bio Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-477' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Case.one",
+    "url": "https://case.one/ru",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-478' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Limber Health",
+    "url": "https://limberhealth.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-479' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Integrating PV",
+    "url": "https://integratedpv.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-480' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502c6a0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Spline",
+    "url": "https://spline.design",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-481' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Artisan Pharma",
+    "url": "https://artisanpharma.net",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-482' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Canopy Financial Technology Partners",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-483' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "The Tie",
+    "url": "https://thetie.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-484' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Thriver",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-485' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502c190>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Lobus",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-486' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hostfully",
+    "url": "https://hostfully.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-487' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Capstan Therapeutics",
+    "url": "https://capstantx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-488' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AccelChip",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-489' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Retool",
+    "url": "https://retool.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-490' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478edbe0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Markable AI",
+    "url": "https://markable.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-491' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "FundGuard",
+    "url": "https://fundguard.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-492' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Mirabel Medical Systems",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-493' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "B-Side Entertainment",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-494' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "LianBio",
+    "url": "https://lianbio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-495' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880f40>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SPRY",
+    "url": "https://sprypt.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-496' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "iMove",
+    "url": "https://imoveinc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-497' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "HYCU, Inc.",
+    "url": "https://hycu.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-498' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Allegrix",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-499' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Umaro Foods",
+    "url": "https://umarofoods.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-500' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478cc850>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SciFluor Life Sciences",
+    "url": "https://scifluor.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-501' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vita Therapeutics",
+    "url": "https://vitatx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-502' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Quandri",
+    "url": "https://quandri.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-503' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "OneVest",
+    "url": "https://onevest.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-504' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Smith.ai",
+    "url": "https://smith.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-505' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478cc6d0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Laurel Networks",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-506' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Aserto",
+    "url": "https://aserto.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-507' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Pixeland Technologies, Inc.",
+    "url": "https://cubic.work",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-508' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Adapteva",
+    "url": "https://adapteva.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-509' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "360Commerce",
+    "url": "https://linkedin.com/company/1031",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-510' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ed520>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Life Whisperer",
+    "url": "https://lifewhisperer.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-511' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AeroShield Materials",
+    "url": "https://aeroshield.tech",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-512' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Circa",
+    "url": "https://wearecirca.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-513' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Eventbase",
+    "url": "https://eventbase.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-514' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CyberIQ Systems",
+    "url": "https://cyberiqsys.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-515' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ed850>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "TAU-PNU MEDICAL",
+    "url": "https://tau-pnu.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-516' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "iZumi Bio",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-517' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Imbera Electronics",
+    "url": "https://imberacorp.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-518' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Dotwork",
+    "url": "https://dotwork.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-519' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Royal Caridea",
+    "url": "https://royalcaridea.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-520' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x155b15340>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "PointServe",
+    "url": "https://geotab.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-521' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Dewey Scientific",
+    "url": "https://deweyscientific.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-522' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Sosivio",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-523' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Fylamynt",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-524' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Equinox",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-525' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478edaf0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Spur",
+    "url": "https://spurstaffing.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-526' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Provisio Medical",
+    "url": "https://provisiomedical.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-527' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Oyster Technologies",
+    "url": "https://withoyster.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-528' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Loop Global Inc.",
+    "url": "https://loopglobal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-529' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Akash Systems",
+    "url": "https://akashsystems.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-530' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779ac10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Augment",
+    "url": "https://augment.market",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-531' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "E2B",
+    "url": "https://e2b.dev",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-532' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Toonimo",
+    "url": "https://toonimo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-533' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Attabotics",
+    "url": "https://attabotics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-534' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AtYourBusiness.com",
+    "url": "https://atyourbusiness.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-535' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779ae80>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Nok Recommerce",
+    "url": "https://nokrecommerce.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-536' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Stemedica Cell Technologies, Inc",
+    "url": "https://stemedica.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-537' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cottage",
+    "url": "https://cotta.ge",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-538' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Projector",
+    "url": "https://projector.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-539' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Coreshell",
+    "url": "https://coreshell.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-540' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5eb0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vesta",
+    "url": "https://vesta.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-541' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Datapad",
+    "url": "https://datapad.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-542' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Berbix",
+    "url": "https://socure.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-543' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "MasterControl",
+    "url": "https://mastercontrol.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-544' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Aligned",
+    "url": "https://aligned.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-545' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5ac0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "MouSensor",
+    "url": "https://mousensor.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-546' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Geneos Therapeutics",
+    "url": "https://geneostx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-547' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Savana",
+    "url": "https://savanainc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-548' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Alif Semiconductor",
+    "url": "https://alifsemi.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-549' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Architect.io",
+    "url": "https://archited.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-550' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5850>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Xontogeny",
+    "url": "https://xontogeny.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-551' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SURGE Therapeutics",
+    "url": "https://surgetx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-552' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Multis",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-553' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Zoom Media | GymTV",
+    "url": "https://zoommedia.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-554' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Montai Therapeutics",
+    "url": "https://montai.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-555' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5ac0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Karius",
+    "url": "https://kariusdx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-556' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Archon Secure",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-557' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Red Leader",
+    "url": "https://redleadertech.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-558' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CoreZero",
+    "url": "https://zwc.io/overview.php",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-559' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Abre",
+    "url": "https://abre.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-560' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x14779a8b0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CloudShare",
+    "url": "https://cloudshare.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-561' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "The Arcview Group",
+    "url": "https://arcviewgroup.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-562' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Secure AI Labs",
+    "url": "https://arrayinsights.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-563' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Rocketlane",
+    "url": "https://rocketlane.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-564' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Modern Intelligence",
+    "url": "https://modernintelligence.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-565' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5ca0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Radionetics Oncology",
+    "url": "https://radionetics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-566' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Eligible API",
+    "url": "https://eligible.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-567' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Planera, Inc",
+    "url": "https://planera.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-568' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Beans.ai",
+    "url": "https://beans.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-569' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "OmniML",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-570' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478de100>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "micro1",
+    "url": "https://micro1.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-571' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BitDAO",
+    "url": "https://mantle.xyz",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-572' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Vizcom",
+    "url": "https://vizcom.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-573' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BidMyListing",
+    "url": "https://redy.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-574' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cullgen Inc.",
+    "url": "https://cullgen.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-575' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5a30>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ascus Biosciences",
+    "url": "https://ascusbiosciences.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-576' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Propel",
+    "url": "https://propeldata.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-577' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Onchilles Pharma",
+    "url": "https://onchillespharma.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-578' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "KBRA",
+    "url": "https://kbra.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-579' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IconOVir Bio",
+    "url": "https://iconovir.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-580' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478edb80>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Plum Life",
+    "url": "https://helloplum.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-581' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Phenomic",
+    "url": "https://phenomic.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-582' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Localized",
+    "url": "https://localized.world",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-583' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ImpactAlpha",
+    "url": "https://impactalpha.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-584' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "AGY Therapeutics",
+    "url": "https://agyinc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-585' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ed9a0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Epoch",
+    "url": "https://epochapp.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-586' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BridgeComm, Inc.",
+    "url": "https://bridgecomminc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-587' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tynt Technologies, Inc.",
+    "url": "https://tynt.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-588' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Sage Network",
+    "url": "https://lockstep.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-589' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Phase Two Chemicals",
+    "url": "https://phasetwochemicals.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-590' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccb80>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Belong.Life",
+    "url": "https://belong.life",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-591' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Worklio",
+    "url": "https://worklio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-592' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Waybridge",
+    "url": "https://minehub.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-593' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Shadowbox, Inc.",
+    "url": "https://shadowbox.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-594' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "DOmedia",
+    "url": "https://domedia.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-595' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccd60>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Rival Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-596' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Copilot.cx",
+    "url": "https://copilot.cx",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-597' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ETEXX",
+    "url": "https://etexx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-598' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Q-Optics",
+    "url": "https://q-optics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-599' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ilypsa",
+    "url": "https://pharma-journal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-600' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147b21eb0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kion",
+    "url": "https://kion.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-601' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RoyaltyShare, Inc.",
+    "url": "https://theorchard.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-602' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Subvrsive",
+    "url": "https://subvrsive.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-603' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Oneka Technologies",
+    "url": "https://onekawater.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-604' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Katsina Optics",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-605' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147b21190>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ONECORE",
+    "url": "https://onecore.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-606' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "True Digital Surgery",
+    "url": "https://truedigitalsurgery.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-607' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BioCentriq",
+    "url": "https://madescientific.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-608' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Open Raven",
+    "url": "https://openraven.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-609' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "JUNO",
+    "url": "https://junolive.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-610' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f52b0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Equispheres Inc.",
+    "url": "https://equispheres.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-611' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BigHat Biosciences",
+    "url": "https://bighatbio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-612' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "zblocks",
+    "url": "https://zbyte.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-613' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Intensivate",
+    "url": "https://intensivate.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-614' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Profian",
+    "url": "https://profian.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-615' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5a60>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "GigFinesse",
+    "url": "https://gigfinesse.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-616' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tracer",
+    "url": "https://tracer.tech",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-617' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Contentstack",
+    "url": "https://contentstack.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-618' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Osmind",
+    "url": "https://osmind.org",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-619' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "HEROFi",
+    "url": "https://chowly.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-620' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5100>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Power Global",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-621' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "WiPay",
+    "url": "https://wipaycaribbean.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-622' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Turvo",
+    "url": "https://turvo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-623' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "VitroLabs Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-624' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Impacked",
+    "url": "https://impackedpackaging.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-625' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5b80>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Noyo",
+    "url": "https://noyo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-626' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Alpheus Medical, Inc",
+    "url": "https://alpheusmedical.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-627' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Jellyfish",
+    "url": "https://jellyfish.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-628' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "System Initiative",
+    "url": "https://systeminit.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-629' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Prolatus",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-630' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aab80>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "LightStance",
+    "url": "https://lightstance.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-631' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Incredible Health",
+    "url": "https://incrediblehealth.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-632' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Redica Systems",
+    "url": "https://redica.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-633' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ohanafy",
+    "url": "https://ohanafy.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-634' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Astralabs",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-635' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1477aa340>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "ImageVision",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-636' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Biosynthetic Technologies",
+    "url": "https://biosynthetic.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-637' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tankfarm",
+    "url": "https://tankfarm.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-638' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Passport",
+    "url": "https://passportglobal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-639' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Felux",
+    "url": "https://felux.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-640' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f52e0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Incoming Media",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-641' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RuleSpace",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-642' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Innoveo",
+    "url": "https://innoveo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-643' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Bump",
+    "url": "https://usebump.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-644' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kountable Inc.",
+    "url": "https://kountable.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-645' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f57c0>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BriteCore",
+    "url": "https://britecore.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-646' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Scenery",
+    "url": "https://scenery.video",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-647' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Arize",
+    "url": "https://arizehub.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-648' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Pineapple Express",
+    "url": "https://pineappleexpress.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-649' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kogniz, Inc.",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-650' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x15502c520>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Narrative I/O",
+    "url": "https://narrative.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-651' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Irwin, a FactSet company",
+    "url": "https://getirwin.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-652' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Just2Trade",
+    "url": "https://just2trade.online",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-653' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Communispace",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-654' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "TrackChain",
+    "url": "https://trackchain.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-655' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478f5820>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tally Technology Group",
+    "url": "https://tallygamecenter.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-656' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Seurat Technologies",
+    "url": "https://seurat.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-657' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Quadrata, Inc.",
+    "url": "https://quadrata.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-658' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Istante Software",
+    "url": "https://istante.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-659' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Ecobot",
+    "url": "https://ecobot.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-660' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478ccc10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "UNCAGED Innovations",
+    "url": "https://uncagedinnovations.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-661' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "LymphoSign",
+    "url": "https://lymphosign.com/action/cookieabsent",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-662' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Endeavor BioMedicines",
+    "url": "https://endeavorbiomedicines.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-663' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Blue Care Homes",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-664' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Clinc",
+    "url": "https://clinc.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-665' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x1478cc640>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RotoHog",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-666' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "GiveGab",
+    "url": "https://bonterratech.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-667' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Graphenix Development",
+    "url": "https://graphnx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-668' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "JenaValve Technology, Inc.",
+    "url": "https://jenavalve.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-669' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Aklivity",
+    "url": "https://aklivity.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-670' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147b67310>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Terbine",
+    "url": "https://terbine.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-671' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "MIDAS Healthcare Solutions, Inc.",
+    "url": "https://midashs.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-672' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CLINICOM",
+    "url": "https://clinicom.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-673' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Better PT",
+    "url": "https://betterpt.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-674' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hydrolix",
+    "url": "https://hydrolix.io",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-675' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170> cb=[<TaskWakeupMethWrapper object at 0x147880f10>()]> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CentrPort",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-676' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Arteria AI",
+    "url": "https://arteria.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-677' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Massive Bio",
+    "url": "https://massivebio.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-678' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "WhereTo, a Flight Centre company",
+    "url": "https://whereto.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-679' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Skyline AI",
+    "url": "https://skyline.ai",
+    "analysis": "Score: 2/10\n\nExplanation: Skyline AI, being a commercial real estate AI investment manager, does not explicitly fall into the categories of companies that typically require people data for tech workers. Their focus is on real estate investment, which does not align with Aviato.co's product offering of data API for People & Company profiles primarily for tech workers.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Virgin Pulse",
+    "url": "https://personifyhealth.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-681' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Hydra Energy",
+    "url": "https://hydraenergy.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-682' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "RevBits",
+    "url": "https://revbits.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-683' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Acuamark Diagnostics, Inc.",
+    "url": "https://acuamarkdx.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-684' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Marpipe",
+    "url": "https://marpipe.com",
+    "analysis": "Score: 6/10\n\nExplanation: Marpipe uses automation and generative AI for designing dynamic product ads, which doesn't explicitly align with the need for people data or company profiles. While they may benefit from some data enrichment, it's not a direct match with Aviato's Data API for People & Company profiles.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Vesiflo",
+    "url": "https://vesiflo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-696' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Axya",
+    "url": "https://axya.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-697' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Keyo",
+    "url": "https://keyo.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-698' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IronVest",
+    "url": "https://ironvest.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-699' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "CoverTree",
+    "url": "https://covertree.com",
+    "analysis": "Score: 3/10  \nExplanation: The company does not explicitly indicate a need for people or company data, especially regarding tech workers. Their focus is on providing affordable home insurance, which does not align with Aviato's data API services for tech worker profiles.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Paces",
+    "url": "https://paces.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-711' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Avo",
+    "url": "https://avomd.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-712' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Link Money",
+    "url": "https://link.money",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-713' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Tridium",
+    "url": "https://tridium.com/us",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-714' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Jet Protocol",
+    "url": "https://jetprotocol.io",
+    "analysis": "Score: 2/10  \nExplanation: The company described is focused on decentralized lending and borrowing platform technology, which does not align with the explicit need for people data, specifically focused on tech workers, that Aviato.co provides.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Empowered Education",
+    "url": "https://empowered-edu.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-736' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Elsy",
+    "url": "https://elsyglobal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-737' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Mayan",
+    "url": "https://mayan.co",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-738' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Teamraderie",
+    "url": "https://teamraderie.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-739' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Decisive Farming by TELUS Agriculture",
+    "url": "https://decisivefarming.com",
+    "analysis": "Score: 4/10\nExplanation: Decisive Farming does not explicitly fall into the categories of companies that have a definite need for people data as described in the criteria provided. While they may benefit from data-driven insights, it is not a clear-cut case for requiring people data specifically for tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Wonderment",
+    "url": "https://wonderment.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-751' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cellarity",
+    "url": "https://cellarity.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-752' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Expresiv Technologies",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-753' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Emancro",
+    "url": "https://emancro.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-754' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "MiLaboratories",
+    "url": "https://milaboratories.com",
+    "analysis": "Score: 1/10\nExplanation: The company's focus on top-notch solutions for adaptive immunity studies indicates a specialization in bio-related services, rather than tech worker data needs.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Chameleon Systems",
+    "url": "https://chameleonsystems.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-762' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Pensa Systems",
+    "url": "https://pensasystems.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-763' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Arbor",
+    "url": "https://liveramp.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-764' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Cambium",
+    "url": "https://cambium-usa.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-765' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Secberus",
+    "url": "https://secberus.com",
+    "analysis": "Score: 6/10\n\nExplanation: Based on the company description provided, Aviato.co may not be a perfect fit as there is no direct mention of needing people or company profiles for tech workers. However, the description does hint at the normalization of data from any source for analysis, which could potentially include analyzing tech worker data.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Cnano Technology",
+    "url": "https://cnanotechnology.com",
+    "analysis": "Score: 1/10\nExplanation: Jiangsu Cnano Technology Co., Ltd. is primarily focused on the research, production, and sale of nano-level carbon materials and related products. They do not fall under the criteria of companies that explicitly need people data or work with tech worker data. Their focus on nanomaterials and conductive materials does not align with the services provided by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "TalkLocal",
+    "url": "https://talklocal.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-773' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Alio",
+    "url": "https://alio.ai",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-774' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "UploadVR",
+    "url": "https://uploadvr.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-775' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Andrena",
+    "url": "https://andrena.com",
+    "analysis": "Score: 2/10\n\nExplanation: The company description provided does not explicitly indicate a need for people data, data on work experience, or job history. It appears to be focused on promoting an Internet service rather than utilizing data on tech workers.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Enlyt Health",
+    "url": "https://enlythealth.com",
+    "analysis": "Score: 2/10\n\nExplanation: The company description provided does not indicate a clear need for people data, especially focused on tech workers, which is Aviato.co's specialty. Enlyt Health Digital Front Door Platform seems to focus more on member and patient engagement in the healthcare industry, which doesn't align with Aviato.co's product. \n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Synchron Networks",
+    "url": "https://synchronnetworks.com",
+    "analysis": "Score: 2/10\nExplanation: Synchron Networks' focus on software technology for system management and digital transport solutions does not align with the specific offering of data API for People & Company profiles, particularly for tech workers, by Aviato.co. There is no clear indication that Synchron Networks would have a direct need or strong use case for the type of data service provided by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "BodiData, Inc.",
+    "url": "https://bodidata.com",
+    "analysis": "Score: 4/10\n\nExplanation: While this company focuses on using AI and data for uniform fitting, their primary focus is not on tech worker data. They are more centered around body dimension data for uniforms and corporate clients.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "HELIX RE",
+    "url": "https://west2nddistrict.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-800' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "4CRisk.ai",
+    "url": "https://4crisk.ai",
+    "analysis": "1. Score: 4/10\n2. Explanation: While the company offers AI-powered solutions for compliance and risk, it does not explicitly state a need for people data or data on tech workers, which is the primary focus of Aviato.co's product. The description mentions professionals in compliance, risk, security, legal, and third-party management, but it lacks a clear indication of requiring the specific type of data Aviato.co provides.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "RxLightning",
+    "url": "https://rxlightning.com",
+    "analysis": "Score: 2/10\nExplanation: The company description \"Medication Access, at Lightning Speed\" does not indicate a direct need for people data, specifically related to tech workers. While the product may have potential applications in healthcare or logistics industries, there is no explicit mention of requiring data on work experience, job history, compensation, or other details relevant to tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "iZotope",
+    "url": "https://izotope.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-821' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Iconic Therapeutics",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-822' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Control Bionics ",
+    "url": "https://controlbionics.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-823' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Native Voice",
+    "url": "https://nativevoice.ai",
+    "analysis": "Score: 1/10\nExplanation: The company, based on the description provided, focuses on AI companions and does not explicitly indicate a need for people data, especially not the type of data related to work experience, email, job history, compensation, etc., that Aviato.co offers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Buildforce",
+    "url": "https://buildforce.com",
+    "analysis": "Score: 2/10\nExplanation: Buildforce's focus on hiring and managing electricians for construction projects does not align with the need for tech worker data that Aviato.co provides. They do not explicitly require data on job history, compensation, or other details typically associated with tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "8base",
+    "url": "https://8base.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-848' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "retail zipline",
+    "url": "https://getzipline.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-849' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Salamander Solutions",
+    "url": "https://salamandersolutions.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-850' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Covario",
+    "url": NaN,
+    "analysis": "Based on the criteria provided, here is the analysis for Aviato.co:\n\n1. Score: 9/10\n2. Explanation: Aviato.co would be a good fit as they provide a Data API for People & Company profiles, specifically targeting tech workers. Companies looking for AI Recruiting tools, sourcing tools for B2B people data, B2B companies needing data for enrichment, and those explicitly working with tech worker data would benefit from Aviato.co's product offering.\n3. Verdict: Yes, Aviato.co is a definite match based on the given criteria.",
+    "score": 9
+  },
+  {
+    "name": "PoliVec",
+    "url": NaN,
+    "analysis": "1. Score: 3/10\n2. Explanation: PoliVec does not have a direct need for people data related to tech workers, which is the primary focus of Aviato.co's product offering. Their software suite revolves around corporate governance, risk management, and compliance solutions, without a clear use case for the type of data that Aviato.co provides.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Yelp WiFi",
+    "url": "https://yelp.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-863' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Parrot",
+    "url": "https://com.mx",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-864' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Kronologic",
+    "url": "https://kronologic.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-865' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "EnviCore Inc.",
+    "url": "https://envicoreinc.com",
+    "analysis": "Score: 1/10\nExplanation: EnviCore is a company focused on sustainable cementitious materials, which does not align with the criteria for a definite match for Aviato.co's data API for people & company profiles, specifically for tech workers. There is no clear indication of needing people data or tech worker-related information in their business model.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flashtract",
+    "url": "https://flashtract.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-897' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "IndieFlow",
+    "url": "https://indieflow.me",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-898' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "SupportLogic",
+    "url": "https://supportlogic.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-899' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "OnChain Studios",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-900' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "People Science",
+    "url": "https://peoplescience.health",
+    "analysis": "1. Score: 1/10\n2. Explanation: People Science is focused on data collection for clinical research studies of alternative medicines and wellness interventions, which does not align with Aviato.co's product offering of Data API for People & Company profiles primarily for tech workers.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Inciscent",
+    "url": NaN,
+    "analysis": "Error analyzing company: Task <Task pending name='Task-912' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Encapsulate",
+    "url": "https://encapsulate.bio",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-913' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "BeatConnect",
+    "url": "https://beatconnect.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-914' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Skymind",
+    "url": "https://skymind.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-915' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  },
+  {
+    "name": "Artera",
+    "url": "https://artera.io",
+    "analysis": "Score: 3/10\n\nExplanation: While Artera is a SaaS leader in digital health using AI-powered virtual agents, their focus is on patient experience and healthcare organizations. They do not explicitly mention a need for people data related to tech workers, work experience, job history, or compensation, which are the primary offerings of Aviato.co. Therefore, they do not match the criteria for a good fit in terms of needing data on tech workers.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Operant Networks",
+    "url": "https://operantnetworks.com",
+    "analysis": "- Score: 2/10\n- Explanation: The company description focuses on simplifying networking and cybersecurity for energy companies, with no explicit mention of needing people data related to tech workers. There is no clear indication that they would require or benefit from Aviato.co's Data API for People & Company profiles.\n- Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "CNG 2023 VEHICLES III",
+    "url": NaN,
+    "analysis": "Score: 2/10\nExplanation: The company does not seem to fall into the definite yes category as an energy conservation company likely does not have a direct need for people data, especially specific data on tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Payverse",
+    "url": "https://payverse.com",
+    "analysis": "Score: 2/10\nExplanation: Payverse is an alternative payments processor focused on payment methods and technologies, not on the need for people data, which is the primary offering of Aviato.co. There is no clear indication that they would require or benefit from the data API provided by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "AppOnboard",
+    "url": "https://buildbox.com",
+    "analysis": "Error analyzing company: Task <Task pending name='Task-921' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:170>> got Future <Future pending> attached to a different loop",
+    "score": 0
+  }
+]

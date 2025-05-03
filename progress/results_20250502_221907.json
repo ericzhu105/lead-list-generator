@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit as they develop an enterprise decision-making platform for sales and talent domains. They track real-time data on companies and decision-makers, which aligns well with Aviato.co's data API for People & Company profiles.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Together AI",
+    "url": "https://together.ai",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co because they are involved in developing generative AI models which often require a significant amount of people data for training and optimization. They also mention deploying models at scale, which could indicate a need for data enrichment or validation.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "micro1",
+    "url": "https://micro1.ai",
+    "analysis": "1. Score: 9/10\n2. Explanation: The company's focus on sourcing, vetting, and onboarding talent aligns perfectly with Aviato.co's Data API for People & Company profiles, especially for tech workers. This indicates a clear need for people data in their talent acquisition process.\n3. Verdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Jellyfish",
+    "url": "https://jellyfish.co",
+    "analysis": "1. Score: 9/10\n2. Explanation: This company would be a good fit for Aviato.co because they enable engineering performance and strategic alignment, which indicates a need for tech worker data. By integrating with platforms like Jira and GitHub, they likely require data on tech workers for optimization and efficiency purposes.\n3. Verdict: Yes",
+    "score": 9
+  }
+]

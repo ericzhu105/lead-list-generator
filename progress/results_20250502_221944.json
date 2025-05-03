@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "Score: 9/10\nExplanation: Laudable's AI product focuses on customer testimonials and reviews, which indicates a clear need for people data to gather and analyze this information effectively. Additionally, the mention of mining data from Gong and Chorus call recordings further emphasizes the need for data on individuals. This aligns well with Aviato.co's offering of data API for people profiles.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "ChartHop",
+    "url": "https://charthop.com",
+    "analysis": "Score: 9/10\nExplanation: Based on the description provided, this company offers HR-related services which involve handling headcount planning, compensation, and performance data. They emphasize empowerment through AI and planning for the future, suggesting a need for advanced data analytics. Aviato.co's Data API could be a valuable resource for enhancing their HRIS platform and providing insights for headcount planning, compensation analysis, etc. \nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Smith.ai",
+    "url": "https://smith.ai",
+    "analysis": "Score: 9/10\nExplanation: Smith.ai offers live North America-based agents for customer engagement, which indicates a clear need for people data to optimize interactions. Their focus on lead conversion aligns with the data API for people and company profiles offered by Aviato.co, making them a strong fit.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Arbor",
+    "url": "https://liveramp.com",
+    "analysis": "Score: 9/10\nExplanation: LiveRamp would be a good fit for Aviato.co as they are a data collaboration platform that focuses on building brand and business value through collaboration. It is likely that they would benefit from Aviato.co's Data API for People & Company profiles, especially for enriching their data and enhancing their collaboration capabilities.\nVerdict: YES",
+    "score": 9
+  }
+]

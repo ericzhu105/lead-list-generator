@@ -1,0 +1,61 @@
+{
+  "current": 7,
+  "total": 7,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 7,
+  "current_company": "Bitgreen",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252453.258153,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252454.411601,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252455.232632,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252456.461795,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252457.51991,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252458.485349,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252459.412168,
+      "analysis_time": 1.1
+    }
+  ],
+  "start_time": 1746252453.252922,
+  "should_stop": false
+}

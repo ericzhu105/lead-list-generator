@@ -1,0 +1,117 @@
+{
+  "current": 10,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 1,
+  "analyzed_companies": 10,
+  "current_company": "Acenxion Biosystems",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254400.631455,
+      "analysis_time": 4.5,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "1. Score: 1/10\n2. Explanation: RIOS does not fall within the criteria of companies that would definitely need people data such as AI recruiting tools, sourcing tools, or those explicitly working with tech worker data. Their focus is on empowering manufacturers to improve industrial process control, which does not align with the need for people or company profiles data.\n3. Verdict: No"
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254400.641343,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10\n\nExplanation: This company operates in logistics for online brands and retailers, focusing on delivery and at-home return experiences. They do not explicitly require people data for their operations. While they may deal with customer data, they do not have a clear need or use case for the specific type of tech worker data provided by Aviato.co.\n\nVerdict: No"
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254400.653615,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 3/10\n\nExplanation: Aviato.co, as a Data API for People & Company profiles specializing in tech worker data, would not be a good fit for this company as they are focused on enterprise data management for Kubernetes backup and disaster recovery. They do not explicitly need people data for their operations.\n\nVerdict: No"
+    },
+    {
+      "name": "Flume Health",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254400.662782,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 6/10\n\nExplanation: The company description mentions modernizing data operations, which could potentially involve the use of data API for people and company profiles. However, it is not explicitly stated that they need data on tech workers or have a direct need for people data.\n\nVerdict: No"
+    },
+    {
+      "name": "Stanza",
+      "status": "completed",
+      "score": 9,
+      "start_time": 1746254400.672849,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 9/10\n\nExplanation: Stanza offers a platform that helps businesses schedule, manage, and optimize hourly workers to control costs while providing better service. This company would be a good fit for Aviato.co as they work with tech workers whose work history, availability, and other data would be crucial for effective scheduling and management.\n\nVerdict: Yes"
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254405.117216,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10\nExplanation: E Shop Pharmacy is focused on selling medications online and does not have a clear need for people or company data related to tech workers. The primary focus of the company does not align with the services provided by Aviato.co. \nVerdict: No"
+    },
+    {
+      "name": "Bitgreen",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254405.127058,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "1. Score: 1/10\n2. Explanation: Bitgreen is a blockchain community focused on renewable energy, personal growth, and impact initiatives, with no explicit need for people data related to work experience, job history, compensation, or tech worker profiles.\n3. Verdict: No"
+    },
+    {
+      "name": "Impraise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254405.136425,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10\nExplanation: The company's primary focus is on performance management software for continuous feedback and development, which does not indicate a direct need for people data related to tech workers.\nVerdict: No"
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254405.145421,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 1/10\nExplanation: The company is focused on discovering therapies for neurodegenerative diseases and does not align with the need for people data on tech workers, job history, email, etc.\nVerdict: No"
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254405.154812,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 1/10  \nExplanation: The company focuses on developing an antimicrobial susceptibility testing system for clinical purposes and does not have a direct need for people data related to tech workers or B2B enrichment.  \nVerdict: No"
+    }
+  ],
+  "start_time": 1746254400.630004,
+  "should_stop": false,
+  "excel_file": "matching_companies_20250502_233849.xlsx",
+  "csv_file": "matching_companies_20250502_233849.csv",
+  "all_csv_file": "all_companies_20250502_233849.csv",
+  "total_results": 1,
+  "total_analyzed": 25
+}

@@ -1,0 +1,186 @@
+{
+  "current": 85,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 25,
+  "current_company": "Atomic Industries",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249763.365623,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Versanis Bio",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249763.367292,
+      "analysis_time": 5.3
+    },
+    {
+      "name": "Xooker",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.062066,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.785637,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Octet Scientific, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.858372,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "ALLO - Backed by Zoom",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249765.636242,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249765.937284,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Neomar",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249766.408374,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249766.749324,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249767.593501,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "CommonGround",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249767.923069,
+      "analysis_time": 2.3
+    },
+    {
+      "name": "Vivid Theory",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249768.693119,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Ownify",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249768.722577,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Spekit",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249769.610463,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Nexosome Oncology",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249769.686496,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Artio Medical, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249770.216384,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "HireAthena",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249770.408398,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Ebyline, Inc. an IZEA Innovation",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249770.555584,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Audit Sight Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249771.115403,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Sharper Shape Group",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249771.384756,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Tanbark Molded Fiber Products",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249771.401292,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Compliable",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249772.052112,
+      "analysis_time": 0
+    },
+    {
+      "name": "ThreeKit",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249772.262873,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "RNAimmune",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249772.454593,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Atomic Industries",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249773.089191,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249763.363448
+}

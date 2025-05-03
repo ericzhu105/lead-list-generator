@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\n\nExplanation: Stanza offers a platform that helps businesses schedule, manage, and optimize hourly workers to control costs while providing better service. This company would be a good fit for Aviato.co as they work with tech workers whose work history, availability, and other data would be crucial for effective scheduling and management.\n\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Company: Aviato.co\nProduct: Data API for People & Company profiles, with data on work experience, email, job history, compensation, primarily for tech workers.\n\nScore: 9/10\nExplanation: Aviato.co would be a definite yes for companies that need data on tech workers for enrichment, AI recruiting tools, sourcing tools requiring B2B people data, and companies explicitly working with tech worker data. The product aligns well with the needs of such businesses.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co as they provide an enterprise decision-making platform for global CXO leaders in sales and talent domains. With a focus on real-time data tracking millions of data points about companies and decision-makers, they align well with Aviato.co's Data API for People & Company profiles, especially for the talent domain.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Score: 8/10\nReason: This company would be a good fit as they provide a data platform for companies and teams to manage datasets and scale collaboration through data visualization. Since they work with data, there is a high likelihood that they would require people and company profile data for enrichment and analysis.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Spekit",
+    "url": "https://spekit.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit as an AI-powered sales enablement platform is likely to benefit from people data on potential customers and their work history, which could enhance the personalization of their answers and content.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "1. Score: 9/10\n2. Explanation: Laudable would be a good fit for Aviato.co because they directly deal with customer testimonials, quotes, and reviews, indicating a need for people data related to customers. Moreover, their focus on mining data from platforms like Gong and Chorus further aligns with Aviato.co's offering of data API for people and company profiles.\n3. Verdict: Yes",
+    "score": 9
+  }
+]

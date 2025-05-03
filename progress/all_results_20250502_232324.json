@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 2/10\nExplanation: RIOS focuses on empowering manufacturers with AI agents to improve industrial process control. Their main focus does not align with the need for people data in recruiting or enriching data on tech workers, which is the primary offering of Aviato.co. Therefore, there is no clear indication that they would require the data API provided by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 2/10\nExplanation: The company description indicates a focus on logistics services for delivery and returns, with no explicit need for people data, especially data on tech workers. The nature of the business does not align with the need for a data API for people and company profiles primarily for tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 2/10\n\nExplanation: This company does not seem to have a clear and direct need for people data in their enterprise data management platform related to Kubernetes backup and disaster recovery. They are focused on technical aspects and do not fall under the criteria of companies that require or explicitly work with people data.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 3/10\nExplanation: The company description does not indicate a direct need for people data. While they may benefit from data optimization tools, there is no clear link to requiring people or company profile data, specifically for tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 8/10\nExplanation: Stanza is an AI-powered calendar platform that helps teams maximize their time and organize their schedules efficiently. While their primary focus is on calendar management, there is a high likelihood that they would benefit from data on work experience, job history, and potentially compensation for tech workers to enhance their scheduling capabilities.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Score: 3/10\nExplanation: E Shop Pharmacy is not a good fit for Aviato.co as they are a non-software company in the pharmacy sector and do not have a clear need for people data related to tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Score: 2/10  \nExplanation: Bitgreen's focus on blockchain technology, renewable energy, personal growth, and impact initiatives does not align with the need for people data related to tech workers, job history, compensation, etc., which is the core offering of Aviato.co.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Score: 4/10\n\nExplanation: While the company focuses on performance management software, there is no clear indication of a direct need for people data related to work experience, job history, compensation, etc., primarily for tech workers. The emphasis is on continuous feedback and performance management, which does not align with Aviato.co's specific data API for people and company profiles in the tech industry.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Score: 1/10  \nExplanation: The company's focus on discovering therapies for neurodegenerative diseases indicates no explicit need for people data or tech worker profiles.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Score: 1/10\nExplanation: This company is focused on developing an antimicrobial susceptibility testing system for clinical use and does not explicitly require people data or fit the profile of companies that would benefit from data API for people and company profiles. \nVerdict: No",
+    "score": 0
+  }
+]

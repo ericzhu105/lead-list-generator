@@ -1,0 +1,123 @@
+{
+  "current": 185,
+  "total": 7,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 16,
+  "current_company": "Assurified",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.087307,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Backpack",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.123756,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "BACKBONE",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.131741,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Ezra AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.880364,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.099955,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Zuper",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.273828,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.702025,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "adonis",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.785227,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "CGTime",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.995189,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249814.973802,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sunflower Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.059187,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "PayVMS",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.071915,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Stanza",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249815.763025,
+      "analysis_time": 0
+    },
+    {
+      "name": "Mulberry",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.771775,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Axiom Space",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249816.099051,
+      "analysis_time": 0
+    },
+    {
+      "name": "Assurified",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249816.407128,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249812.085613
+}

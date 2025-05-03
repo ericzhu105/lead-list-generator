@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 2/10\n\nExplanation: RIOS does not appear to need people or company profiles data for their operations improvement in industrial process control. The focus of their product is on AI agents for controlling industrial processes, which does not align with Aviato.co's offering of data API for people and company profiles, primarily for tech workers.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 2/10\nExplanation: The company operates in the delivery and return experience space for online brands and retailers, which does not align with the need for people data related to tech workers offered by Aviato.co. There is no clear indication that they explicitly require or work with tech worker data.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "1. Score: 2/10\n2. Explanation: The company described is focused on enterprise data management for Kubernetes backup and disaster recovery, with no explicit need for people data or company profiles. They do not fall under the defined criteria of companies that would be a good fit for Aviato.co's Data API for People & Company profiles.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 3/10\n\nExplanation: Based on the provided company description, the focus appears to be on data operations and integration tools, rather than a direct need for people data, specifically for tech workers. While the product may indirectly benefit from enhanced data on people and companies, there is no explicit use case mentioned that aligns with Aviato.co's offering.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Based on the provided criteria: \"Data API for People & Company profiles, with data on work experience, email, job history, compensation, etc primarily for tech workers,\" the evaluation for Stanza is as follows:\n\n1. Score: 1/10. Reason: Stanza does not clearly align with the outlined criteria. There is no indication in the company description that Stanza requires or utilizes people data, job history, or compensation information for tech workers, which are the primary offerings of Aviato.co.\n   \n2. Explanation: Stanza's focus on advancing healthcare through AI and data integration suggests a different target market and use case, which does not directly correlate with the services provided by Aviato.co. The lack of emphasis on the need for people data for tech worker profiles makes it unsuitable for a definite match in this context.\n\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Score: 2/10\nExplanation: E Shop Pharmacy is a discount online pharmacy and does not explicitly need data on people profiles or tech workers. Their primary focus is on selling medications, not on utilizing data API for people and company profiles.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Score: 1/10\nExplanation: Bitgreen is a blockchain community focused on renewable energy and personal growth initiatives, with no apparent need for people or company profile data in their description.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Score: 3/10  \nExplanation: The company does not explicitly mention needing people data for their performance management software. While the software focuses on continuous feedback and performance management, there is no clear indication of requiring data on work experience, job history, compensation, or other specific details typically provided by a data API for people and company profiles specializing in tech workers.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "1. Score: 1/10\n2. Explanation: The company description indicates a focus on discovering therapies for neurodegenerative diseases, which does not align with the need for people and company data, especially related to tech workers, as provided by Aviato.co.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Score: 1/10\nExplanation: The company is focused on developing an antimicrobial susceptibility testing (AST) system for clinical use and does not explicitly mention a need for people data or tech worker profiles. The nature of their product and target market does not align with Aviato.co's offering of data API for people & company profiles for tech workers.\nVerdict: No",
+    "score": 0
+  }
+]

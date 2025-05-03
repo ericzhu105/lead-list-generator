@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Company: Aviato.co\nProduct: Data API for People & Company profiles, with data on work experience, email, job history, compensation, etc primarily for tech workers.\n\nScore: 9/10\nExplanation: Aviato.co would be a great fit for companies that need data on people and companies for enrichment, particularly those working with tech worker data. The product aligns well with AI recruiting tools, sourcing tools requiring B2B people data, and B2B companies in need of such data.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit as they are a developer of an enterprise decision-making platform targeting global CXO leaders in sales and talent domains. They aim to provide real-time data on companies and decision-makers, aligning well with Aviato.co's Data API for People & Company profiles, especially for tech workers.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "Score: 8/10  \nExplanation: Laudable's AI product focuses on extracting customer testimonials, quotes, and reviews efficiently. As they mention mining data from Gong and Chorus call recordings, it's clear they have a strong need for data on people (customers in this case) for evidence and proof. This aligns well with Aviato.co's Data API for People & Company profiles, aimed primarily at tech workers.  \nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "ChartHop",
+    "url": "https://charthop.com",
+    "analysis": "**Score: 9/10**\n\n**Explanation:**\nThis company would be a good fit because they focus on HR-related functions such as Headcount Planning, Compensation, Performance, and Engagement, which often require detailed people data. Additionally, their emphasis on AI aligns well with Aviato.co's Data API for People & Company profiles. \n\n**Verdict: Yes**",
+    "score": 9
+  },
+  {
+    "name": "Smith.ai",
+    "url": "https://smith.ai",
+    "analysis": "1. Score: 8/10\n2. Explanation: Smith.ai, with its focus on customer engagement and lead conversion, could greatly benefit from Aviato's Data API for People & Company profiles, especially in understanding the backgrounds and work history of potential leads. The data on work experience, email, job history, and compensation could enhance Smith.ai's lead capture and conversion efforts by providing deeper insights into their potential customers.\n3. Verdict: Yes",
+    "score": 8
+  }
+]

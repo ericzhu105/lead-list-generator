@@ -1,0 +1,57 @@
+{
+  "current": 1345,
+  "total": 7207,
+  "status": "idle",
+  "processed_companies": 0,
+  "analyzed_companies": 5,
+  "current_company": "Alexander Shulgin Research Institute ",
+  "company_progress": [
+    {
+      "name": "HI-Bio: A Biogen Company",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746254227.636005,
+      "analysis_time": 0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Carlsmed",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254227.643219,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2243' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Laplace Interventional",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254227.643248,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2244' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Monarch Investment and Management Group",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254227.643256,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2245' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Alexander Shulgin Research Institute ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254227.643262,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2246' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    }
+  ],
+  "start_time": null,
+  "should_stop": false
+}

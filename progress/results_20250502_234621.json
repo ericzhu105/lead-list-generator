@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10  \nExplanation: Stanza is a B2B company that specializes in event management software. While they may not explicitly mention a need for people data, their business involving organizing events and managing attendees could greatly benefit from detailed profiles on attendees, their work experience, and affiliations - all provided by Aviato.co's Data API.  \nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Company Name: Aviato.co  \nCompany Description: Aviato.co provides a Data API for People & Company profiles, focusing on data related to work experience, email, job history, compensation, primarily for tech workers.\n\nScore: 9/10  \nExplanation: Aviato.co would be a good fit for companies that need data on tech workers, specifically for recruitment, sourcing, and enriching their B2B offerings. The company's product aligns well with the needs of AI recruiting tools, sourcing platforms, and B2B companies that require detailed information on individuals and organizations in the tech industry.  \nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 8/10\nReason: The company provides an enterprise decision-making platform for global CXO leaders in sales and talent domains, which indicates a clear need for data on companies and decision-makers. The real-time data tracking millions of data points aligns well with Aviato.co's Data API for People & Company profiles, making it a strong fit.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Score: 9/10\nExplanation: Aviato.co would be a good fit for this company because they provide a Data API for People & Company profiles, specifically targeting tech workers. The company's focus on managing datasets and collaboration through data visualization aligns well with the need for enriched data related to work experience, job history, and compensation.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Wade & Wendy",
+    "url": NaN,
+    "analysis": "Score: 9/10\nExplanation: The company would be a good fit as they are a developer of an artificial intelligence recruiting platform that aims to improve the hiring process. Their use of AI and big data aligns well with the data API for People & Company profiles that Aviato.co offers, indicating a potential clear need for people data.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Confirm",
+    "url": "https://confirm.com",
+    "analysis": "Score: 9/10\n\nExplanation: Aviato.co would be a good fit for Confirm as it provides a product that aligns with Confirm's focus on employee influence and impact through organizational network analysis (ONA). Aviato.co's Data API for People & Company profiles, particularly tailored for tech workers, could enhance Confirm's capabilities in quantifying and leveraging employee data for performance management.\n\nVerdict: Yes",
+    "score": 9
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "current": 210,
+  "total": 7,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 32,
+  "current_company": "Thriver",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.087307,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Backpack",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.123756,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "BACKBONE",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.131741,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Ezra AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249812.880364,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.099955,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Zuper",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.273828,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.702025,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "adonis",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.785227,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "CGTime",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249813.995189,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249814.973802,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sunflower Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.059187,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "PayVMS",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.071915,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.763025,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Mulberry",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249815.771775,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Axiom Space",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249816.099051,
+      "analysis_time": 0
+    },
+    {
+      "name": "Assurified",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249816.407128,
+      "analysis_time": 0
+    },
+    {
+      "name": "Neutral",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249816.673475,
+      "analysis_time": 0
+    },
+    {
+      "name": "Velocity",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249818.908603,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Release",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249819.018751,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Arch",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249819.188427,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Ultra RPM",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249819.765813,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Radian Aerospace",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249819.878746,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Tera Systems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249820.011687,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Simplify ASC",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249820.560668,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Integrating PV",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249821.125817,
+      "analysis_time": 0
+    },
+    {
+      "name": "Plenful",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249821.256544,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Gestion T2C2/Bio Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249822.026532,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Pluralytics AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249822.523936,
+      "analysis_time": 1.7
+    },
+    {
+      "name": "Case.one",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249822.822824,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Limber Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249823.833414,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "CarbonBuilt",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249824.268512,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Thriver",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249824.893619,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249812.085613
+}

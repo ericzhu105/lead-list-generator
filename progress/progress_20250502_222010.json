@@ -1,0 +1,151 @@
+{
+  "current": 20,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 20,
+  "current_company": "BioRender",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249588.446363,
+      "analysis_time": 2.5
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249590.963928,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249591.80605,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249592.568308,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249593.654063,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249594.854817,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249595.510851,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Impraise",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249596.433277,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249597.372028,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249598.198444,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Dura Software",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249599.210629,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "DataChat",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249600.09259,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249600.955957,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Docket",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249601.794021,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Terminal ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249602.883919,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249604.290914,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249605.776195,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Addressable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249607.126722,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Pump.co",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249608.057283,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "BioRender",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249609.298257,
+      "analysis_time": 0.8
+    }
+  ],
+  "start_time": 1746249588.445605
+}

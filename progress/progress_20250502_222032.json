@@ -1,0 +1,291 @@
+{
+  "current": 40,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 40,
+  "current_company": "A2 Biotherapeutics, Inc.",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249588.446363,
+      "analysis_time": 2.5
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249590.963928,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249591.80605,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249592.568308,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249593.654063,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249594.854817,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249595.510851,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Impraise",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249596.433277,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249597.372028,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249598.198444,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Dura Software",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249599.210629,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "DataChat",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249600.09259,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249600.955957,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Docket",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249601.794021,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Terminal ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249602.883919,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249604.290914,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249605.776195,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Addressable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249607.126722,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Pump.co",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249608.057283,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "BioRender",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249609.298257,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Galileo",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249610.113484,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Perygee",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249610.999038,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "CastleLine",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249612.053865,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Edgegap",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249612.86901,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "DocbookMD",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249613.677625,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249614.468255,
+      "analysis_time": 0.0
+    },
+    {
+      "name": "120Water",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249614.468418,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249615.236654,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "LUK Network",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249616.376687,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "nVision Medical",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249617.340354,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Oka, The Carbon Insurance Company",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249618.144756,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Cargobot",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249618.948337,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Gluent",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249620.040458,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Anzen Insurance",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249620.822683,
+      "analysis_time": 5.4
+    },
+    {
+      "name": "Orpyx Medical Technologies",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249626.271395,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Zip Security",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249626.954544,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Yesware",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249628.222854,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "IoTium",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249629.06115,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "PRIVIT",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249629.969201,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "A2 Biotherapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249631.092296,
+      "analysis_time": 1.6
+    }
+  ],
+  "start_time": 1746249588.445605
+}

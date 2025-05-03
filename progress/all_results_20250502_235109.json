@@ -1,0 +1,122 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 1/10\nExplanation: RIOS focuses on empowering manufacturers to improve industrial process control using AI Agents. There is no explicit need for people data, specifically data on tech workers, in their operations or product offering.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 2/10\nExplanation: The company operates in the logistics sector focusing on delivery and returns for online brands and retailers. They do not have a direct need for people data or company profiles related to tech workers. \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 3/10  \nExplanation: The company's enterprise data management platform focuses on Kubernetes backup and disaster recovery, indicating a technical and infrastructure-related service rather than a need for people data. They do not explicitly require people or company profiles for their offering.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "1. Score: 3/10\n2. Explanation: The company description does not mention a direct need for people data or a specific use case related to tech worker data, such as work experience, job history, or compensation. It focuses on moving and modernizing data operations, which does not align with Aviato's offering of data API for people & company profiles.\n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\n\nExplanation: Stanza fits as a definite yes because it is a company that can benefit from Aviato.co's Data API for People & Company profiles. Stanza is focused on building smarter scheduling software for businesses and teams, which can greatly benefit from having detailed data on work experience, job history, and other relevant information about tech workers.\n\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "1. Score: 2/10\n2. Explanation: E Shop Pharmacy is a discount online pharmacy, focusing on selling medications. They do not have a direct need for people data, job history, compensation, or any other data related to tech workers. Therefore, they would not benefit from Aviato.co's Data API for People & Company profiles. \n3. Verdict: No",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Score: 2/10\nExplanation: Bitgreen's focus on blockchain technology, renewable energy, personal growth, and impact initiatives does not align with the need for people or company profiles data offered by Aviato.co. They do not explicitly require the data on work experience, email, job history, or compensation of tech workers that Aviato.co provides.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Score: 2/10  \nExplanation: The company description focuses on performance management software for continuous feedback and performance management, with no explicit mention of needing data on people or companies, especially tech workers.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Score: 1/10\n\nExplanation: The company focuses on discovering therapies for neurodegenerative diseases and does not explicitly require people or company data, particularly data on tech workers. There is no apparent direct need for the data API service provided by Aviato.co.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Score: 1/10\nExplanation: The company is focused on developing an antimicrobial susceptibility testing system and does not align with the need for people data, specifically related to tech workers, as offered by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Dura Software",
+    "url": "https://dura.software",
+    "analysis": "Score: 5/10\nExplanation: While Dura seems to be a software-focused company, the description provided does not explicitly indicate a need for data API related to people and company profiles, especially tech worker data. Without a clear use case tied to people data, it is uncertain if Aviato.co's product aligns with Dura's requirements.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "DataChat",
+    "url": "https://datachat.ai",
+    "analysis": "Score: 2/10\nExplanation: The described company focuses on a no-code, conversational analytics platform and does not explicitly require people or company data, especially data related to tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "BoomerangFX",
+    "url": "https://boomerangfx.com",
+    "analysis": "Score: 2/10\nExplanation: This company does not explicitly fall into the definite yes criteria as they are focused on patient loyalty and healthcare solutions. They do not have a clear need for the data API related to tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Docket",
+    "url": "https://usedocket.com",
+    "analysis": "Score: 3/10\n\nExplanation: Docket does not explicitly indicate a need for people data related to tech workers. Their focus appears to be on improving productivity for mid-market manufacturers, rather than sourcing or enriching data on tech workers. As such, there is no direct alignment with Aviato.co's Data API for People & Company profiles tailored for tech workers.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Terminal ",
+    "url": "https://withterminal.com",
+    "analysis": "Score: 2/10\nExplanation: This company does not explicitly need people or company data, as their focus is on adding telematics integrations to applications. They are not in a direct need for the type of data Aviato.co provides.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Colabo Inc ",
+    "url": NaN,
+    "analysis": "Score: 1/10\n\nExplanation: The company does not explicitly mention a need for data on people or companies, particularly focused on tech workers. Their focus seems to be on providing an automated sales engagement platform using product data integration and analytics. There is no clear indication that they require or would benefit from the type of data Aviato.co provides.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "SuperOrdinary",
+    "url": "https://superordinary.co",
+    "analysis": "Based on the provided criteria and the company description for WEME:\n\nScore: 2/10\nExplanation: Although the company description for WEME is not detailed, it does not seem to clearly align with the criteria set by Aviato.co. The product offered by Aviato.co, which focuses on data API for people and company profiles primarily for tech workers, does not appear to have a direct application or need within WEME based on the limited information available.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Addressable",
+    "url": "https://elitelistings.com",
+    "analysis": "Score: 1/10\nExplanation: The company description provided does not give any indication that Addressable would have a direct need for people data related to work experience, email, job history, compensation specifically for tech workers. Additionally, being a Los Angeles-based company does not inherently align them with the criteria outlined for a good fit.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Pump.co",
+    "url": "https://pump.co",
+    "analysis": "Score: 3/10  \nExplanation: The company, Pump, focuses on automating cloud savings and does not explicitly require people data or fall within the criteria outlined for a definite yes fit.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "BioRender",
+    "url": "https://biorender.com",
+    "analysis": "Score: 1/10\nExplanation: The company's primary focus is on providing scientific illustration software for creating science figures in life sciences, with no explicit need for people data or company profiles.\nVerdict: No",
+    "score": 0
+  }
+]

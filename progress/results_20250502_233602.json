@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Switchboard",
+    "url": NaN,
+    "analysis": "Score: 8/10\nExplanation: This company would be a good fit as they are a developer of an error monitoring and incident response platform for Zapier and Integromat, which are tech-focused platforms. They process workflows and monitor integrations, indicating a need for data on tech workers.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Synthio",
+    "url": "https://synthiocorp.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co because they are a B2B company that explicitly needs data on people for building buyer personas and finding new contacts in their global database. They have a clear use case for people data in their software platform.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Envox",
+    "url": "https://cluttermedia.com",
+    "analysis": "Based on the provided criteria, Aviato.co would be a definite fit for the following reasons:\n\n1. Our product aligns well with companies that require data on work experience, job history, compensation, and other details of tech workers.\n2. Aviato.co would be an excellent fit for AI Recruiting tools that need people data for sourcing, B2B companies that need data on people and companies for enrichment, and companies explicitly working with tech worker data.\n\nGiven the alignment with these criteria, I would score Aviato.co a 10/10.\n\nVerdict: Yes",
+    "score": 10
+  },
+  {
+    "name": "Poised",
+    "url": "https://poised.com",
+    "analysis": "Score: 9/10\nExplanation: Aviato.co would be a good fit for your product as they offer AI-powered communication coaching to help individuals improve their communication skills in real-time. This service would likely benefit from access to data on tech workers' work experience, email, job history, etc., to enhance their platform and provide more personalized insights to users.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Aircover.ai",
+    "url": "https://aircover.ai",
+    "analysis": "Score: 9/10  \nExplanation: Aircover.ai is a strong fit for Aviato.co as they provide sales call guidance and competitive intelligence tools that would benefit from data on people and companies. The need for tailored content, coaching, and technical insights align well with Aviato.co's offering of data API for people & company profiles.  \nVerdict: YES",
+    "score": 9
+  }
+]

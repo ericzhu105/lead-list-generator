@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 3/10\n\nExplanation: RIOS is focused on empowering manufacturers to improve industrial process control with AI agents. They do not explicitly mention a need for people data or data on tech workers, which is the primary offering of Aviato.co. While they may potentially benefit from such data for workforce optimization, it is not a clear and direct match based on the provided description.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 2/10  \nExplanation: The company operates a delivery and return experience service for online brands and retailers, focusing on logistics rather than needing data on people or companies for enrichment.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 1/10\n\nExplanation: The company is focused on enterprise data management specifically for Kubernetes backup and disaster recovery. There is no explicit mention of needing people data or profiles for tech workers, which is the core offering of Aviato.co.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 2/10\nExplanation: The company description does not explicitly indicate a need for people and company profiles data, especially focused on tech workers. The tool described seems more related to data operations and integration rather than people data.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 8/10  \nExplanation: Stanza is a platform that offers AI-powered shift scheduling and workforce management solutions. While they don't explicitly mention needing people data, their focus on optimizing workforce management indicates a potential use case for data on work experience, job history, and other related information provided by Aviato.co.  \nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Score: 2/10  \nExplanation: E Shop Pharmacy is a non-software company in the pharmaceutical industry and does not explicitly require people data for its operations.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Score: 3/10  \nExplanation: Bitgreen focuses on blockchain, renewable energy, personal growth, and impact initiatives. There is no clear indication that they need data on tech workers or company profiles for their operations.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Score: 3/10\nExplanation: The company's focus on performance management software does not explicitly indicate a need for people data related to work experience, job history, compensation, etc., as provided by Aviato.co. While the software fosters a culture of continuous learning and feedback, it does not align with the specific data offerings of Aviato.co targeted towards tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Score: 1/10\n\nExplanation: The company's focus on discovering therapies for neurodegenerative diseases does not align with the need for people data related to tech workers that Aviato.co offers. Their work is more centered on scientific research rather than utilizing data on people and companies in a tech industry context.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Score: 1/10  \nExplanation: This company is a developer of an antimicrobial susceptibility testing (AST) system, which focuses on healthcare and clinical outcomes, not on tech workers or people data. They do not have a clear need for the data API provided by Aviato.co, as their primary focus is on improving patient outcomes and reducing the spread of antibiotic resistance.  \nVerdict: No",
+    "score": 0
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "current": 20,
+  "total": 7207,
+  "status": "idle",
+  "processed_companies": 1,
+  "analyzed_companies": 10,
+  "current_company": "BioRender",
+  "company_progress": [
+    {
+      "name": "Dura Software",
+      "url": "https://dura.software",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.913366,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 3/10\nExplanation: Dura does not explicitly need people data for their hyperniche software buyer services in unique software verticals and SaaS solutions.\nVerdict: No"
+    },
+    {
+      "name": "DataChat",
+      "url": "https://datachat.ai",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.926624,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10\nExplanation: The company description indicates that they are a no-code, conversational analytics platform for enabling business users to analyze data. There is no explicit mention of needing people data, specifically tech worker data, which is the primary focus of Aviato.co's product.\nVerdict: No"
+    },
+    {
+      "name": "BoomerangFX",
+      "url": "https://boomerangfx.com",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.941575,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 3/10\nReason: The company's focus on building patient loyalty through an All-In-One solution for healthcare services does not align with the need for tech worker data that Aviato.co provides. Their product is not explicitly geared towards utilizing people data for recruitment, enrichment, or relationship insights.\nVerdict: No"
+    },
+    {
+      "name": "Docket",
+      "url": "https://usedocket.com",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.951323,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 1/10\nExplanation: The company, Docket, is focused on frontline operations for mid-market manufacturers and does not seem to have a direct need for people data related to tech workers. They appear to be more concerned with improving productivity within manufacturing operations, which does not align with the specific offering of Aviato.co.\nVerdict: No"
+    },
+    {
+      "name": "Terminal ",
+      "url": "https://withterminal.com",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.959375,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 3/10\n\nExplanation: The company's product does not directly align with Aviato.co's offering of Data API for People & Company profiles focused on tech workers. Their focus on telematics integrations for applications does not indicate a clear need for people data or data on work experience, email, job history, compensation, etc.\n\nVerdict: No"
+    },
+    {
+      "name": "Colabo Inc ",
+      "url": NaN,
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.96771,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10  \nExplanation: The company is focused on developing an automated sales engagement platform that doesn't explicitly mention the need for people or company data, specifically related to tech workers. While the platform may benefit from data integration and analytics, there is no clear indication of a direct need for the data Aviato.co provides.\nVerdict: No"
+    },
+    {
+      "name": "SuperOrdinary",
+      "url": "https://superordinary.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.974905,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 5/10\nExplanation: WEME's company description is not specified in the context of needing people data or having a clear use case for tech worker profiles. Without more information, it's uncertain whether they fit the criteria for Aviato.co.\nVerdict: No"
+    },
+    {
+      "name": "Addressable",
+      "url": "https://elitelistings.com",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.981766,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 4/10  \nExplanation: Based on the provided product of Aviato.co, Addressable, being a company with no further context or indication of needing people data or tech worker profiles, would not be a direct fit for Aviato.co's services.  \nVerdict: No"
+    },
+    {
+      "name": "Pump.co",
+      "url": "https://pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.988239,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 3/10\nExplanation: The company description does not indicate a clear need for people data or data on tech workers, which is the primary focus of Aviato.co's Data API. The description revolves around cost savings through AI and automation, with no explicit mention of needing people or company profiles' data.\nVerdict: No"
+    },
+    {
+      "name": "BioRender",
+      "url": "https://biorender.com",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254741.994993,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null,
+      "analysis": "Score: 2/10  \nExplanation: The company description focuses on providing icons and templates for life sciences and creating science figures using scientific illustration software. There is no explicit mention of needing people data, work experience, job history, or other criteria that align with Aviato.co's Data API for tech workers.  \nVerdict: No"
+    }
+  ],
+  "start_time": null,
+  "should_stop": false
+}

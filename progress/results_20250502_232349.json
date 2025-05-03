@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Company: Aviato.co\nProduct: Data API for People & Company profiles, with data on work experience, email, job history, compensation, etc primarily for tech workers.\n\nScore: 9/10\nExplanation: Aviato.co would be a great fit for companies that need data on people and companies for enrichment, particularly those working with tech worker data. The product aligns well with AI recruiting tools, sourcing tools requiring B2B people data, and B2B companies in need of such data.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit as they are a developer of an enterprise decision-making platform targeting global CXO leaders in sales and talent domains. They aim to provide real-time data on companies and decision-makers, aligning well with Aviato.co's Data API for People & Company profiles, especially for tech workers.\nVerdict: YES",
+    "score": 9
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "current": 10,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 1,
+  "analyzed_companies": 10,
+  "current_company": "Acenxion Biosystems",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253877.644942,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253877.702689,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253877.709919,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Flume Health",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253877.716388,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Stanza",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253877.722828,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253879.286666,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Bitgreen",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253879.295064,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Impraise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253879.302944,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253879.309637,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253879.316093,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    }
+  ],
+  "start_time": 1746253877.642969,
+  "should_stop": false
+}

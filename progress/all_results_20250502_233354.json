@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 1/10\nExplanation: RIOS does not appear to be a good fit as they focus on empowering manufacturers with AI agents for industrial process control, which does not align with the need for data on people and company profiles, specifically targeting tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 2/10\nExplanation: This company operates in logistics services for online brands and retailers, focusing on delivery and return experiences. They are not explicitly in need of people or company profile data for tech workers, as their main focus is on logistics operations. Therefore, Aviato.co's Data API for People & Company profiles would not align with the core operations of this company.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 1/10\n\nExplanation: Aviato.co's product focuses on providing data API for people and company profiles, primarily for tech workers. The company described is an enterprise data management platform that deals with Kubernetes backup and disaster recovery, showing no explicit need for people data. \n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 3/10\nExplanation: The company description doesn't explicitly state a need for people data or mention any specific use case related to tech workers. It seems more focused on data operations in general rather than specific data on people and companies.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\nExplanation: Stanza appears to be a platform that enables companies to manage their hourly workforce more efficiently. Given the nature of their service in managing hourly workers, there is a high likelihood that they would require data on people's work experience, job history, and possibly compensation. This aligns well with Aviato.co's product offering of data API for people profiles, especially for tech workers.\nVerdict: Yes",
+    "score": 9
+  }
+]

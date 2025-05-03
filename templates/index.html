@@ -215,6 +215,114 @@
         #gpt-total {
             font-weight: bold;
         }
+        .download-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .download-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .download-buttons .btn {
+            min-width: 200px;
+        }
+        .results-summary {
+            border-top: 1px solid #dee2e6;
+            padding-top: 15px;
+            margin-top: 15px;
+        }
+        .control-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .control-buttons .btn {
+            min-width: 120px;
+        }
+        .btn-stop {
+            background-color: #dc3545;
+            color: white;
+        }
+        .btn-stop:hover {
+            background-color: #c82333;
+            color: white;
+        }
+        .btn-start {
+            background-color: #28a745;
+            color: white;
+            font-size: 1.1em;
+            padding: 12px 24px;
+        }
+        .btn-start:hover {
+            background-color: #218838;
+            color: white;
+        }
+        .upload-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .analysis-ready {
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            text-align: center;
+            display: none;
+        }
+        .analysis-ready.show {
+            display: block;
+        }
+        .btn-upload {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+        }
+        .btn-upload:hover {
+            background-color: #0056b3;
+            color: white;
+        }
+        .upload-status {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            display: none;
+        }
+        .upload-status.success {
+            display: block;
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .company-progress-retry {
+            color: #ffc107;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .company-error-message {
+            color: #dc3545;
+            font-size: 0.9em;
+            margin-top: 5px;
+            word-break: break-word;
+        }
+        .progress-bar.bg-warning {
+            background-color: #ffc107 !important;
+        }
+        .progress-bar.bg-danger {
+            background-color: #dc3545 !important;
+        }
+        .progress-bar.bg-success {
+            background-color: #28a745 !important;
+        }
+        .progress-bar.bg-primary {
+            background-color: #007bff !important;
+        }
     </style>
 </head>
 <body>
@@ -231,13 +339,38 @@
             {% endif %}
         {% endwith %}
 
-        <form method="post" enctype="multipart/form-data" id="upload-form">
-            <div class="mb-3">
-                <label for="file" class="form-label">Upload CSV File</label>
-                <input type="file" class="form-control" id="file" name="file" accept=".csv">
+        <div class="upload-section">
+            <h3 class="mb-3">Upload and Analyze CSV File</h3>
+            <form method="post" enctype="multipart/form-data" id="upload-form">
+                <div class="mb-3">
+                    <label for="file" class="form-label">Select your CSV file</label>
+                    <input type="file" class="form-control" id="file" name="file" accept=".csv">
+                </div>
+                <div class="control-buttons">
+                    <button type="submit" class="btn btn-upload" id="upload-btn">
+                        <i class="fas fa-upload"></i> Upload File
+                    </button>
+                    <button type="button" id="start-btn" class="btn btn-start" {% if not file_uploaded %}disabled{% endif %}>
+                        <i class="fas fa-play"></i> Start Analysis
+                    </button>
+                </div>
+                <div class="upload-status" id="upload-status" {% if file_uploaded %}class="success"{% endif %}>
+                    {% if file_uploaded %}
+                        File uploaded successfully! {{ total_companies }} companies ready for analysis.
+                    {% else %}
+                        Upload a CSV file to begin analysis.
+                    {% endif %}
+                </div>
+            </form>
+            
+            <div class="analysis-ready" id="analysis-ready">
+                <h4 class="mb-3">File Uploaded Successfully!</h4>
+                <p class="mb-3">Your CSV file is ready for analysis. Click the button below to begin processing.</p>
+                <button type="button" id="start-btn" class="btn btn-start">
+                    <i class="fas fa-play"></i> Start Analysis
+                </button>
             </div>
-            <button type="submit" class="btn btn-primary">Upload and Analyze</button>
-        </form>
+        </div>
 
         <div id="progress-container" style="display: none;">
             <div class="progress mb-3">
@@ -250,6 +383,19 @@
                     <span id="current-company"></span><br>
                     <span id="analysis-stats"></span>
                 </p>
+            </div>
+
+            <!-- Control Buttons -->
+            <div class="control-buttons justify-content-center">
+                <button type="button" id="pauseBtn" class="btn btn-warning">
+                    <i class="fas fa-pause"></i> Pause Analysis
+                </button>
+                <button type="button" id="resumeBtn" class="btn btn-primary" style="display: none;">
+                    <i class="fas fa-play"></i> Resume Analysis
+                </button>
+                <button type="button" id="downloadBtn" class="btn btn-success" style="display: none;">
+                    <i class="fas fa-download"></i> Download Results
+                </button>
             </div>
 
             <!-- New GPT Processing Counter -->
@@ -296,23 +442,31 @@
                 </table>
             </div>
 
-            <div class="mt-3">
+            <div class="download-section mt-4">
                 <h4>Download Results</h4>
-                <div class="btn-group" role="group">
+                <div class="download-buttons">
                     {% if excel_file %}
-                    <a href="{{ url_for('download_file', filename=excel_file) }}" class="btn btn-success">Download Matching Companies (Excel)</a>
+                    <a href="{{ url_for('download_file', filename=excel_file) }}" class="btn btn-success mb-2">
+                        <i class="fas fa-file-excel"></i> Download Matching Companies (Excel)
+                    </a>
                     {% endif %}
                     {% if csv_file %}
-                    <a href="{{ url_for('download_file', filename=csv_file) }}" class="btn btn-primary">Download Matching Companies (CSV)</a>
+                    <a href="{{ url_for('download_file', filename=csv_file) }}" class="btn btn-primary mb-2">
+                        <i class="fas fa-file-csv"></i> Download Matching Companies (CSV)
+                    </a>
                     {% endif %}
                     {% if all_csv_file %}
-                    <a href="{{ url_for('download_file', filename=all_csv_file) }}" class="btn btn-info">Download All Analyzed Companies (CSV)</a>
+                    <a href="{{ url_for('download_file', filename=all_csv_file) }}" class="btn btn-info mb-2">
+                        <i class="fas fa-file-csv"></i> Download All Analyzed Companies (CSV)
+                    </a>
                     {% endif %}
                 </div>
-                <p class="text-muted mt-2">
-                    Total companies analyzed: {{ total_analyzed }}<br>
-                    Companies meeting criteria: {{ total_results }}
-                </p>
+                <div class="results-summary mt-3">
+                    <p class="text-muted">
+                        Total companies analyzed: {{ total_analyzed }}<br>
+                        Companies meeting criteria: {{ total_results }}
+                    </p>
+                </div>
             </div>
         {% endif %}
     </div>
@@ -328,11 +482,190 @@
             const progressText = document.getElementById('progress-text');
             const progressContainer = document.getElementById('progress-container');
             const resultsContainer = document.querySelector('.table-responsive');
+            const startBtn = document.getElementById('start-btn');
+            const pauseBtn = document.getElementById('pauseBtn');
+            const resumeBtn = document.getElementById('resumeBtn');
+            const downloadBtn = document.getElementById('downloadBtn');
+            const uploadBtn = document.getElementById('upload-btn');
+            const uploadStatus = document.getElementById('upload-status');
             
-            $('#upload-form').on('submit', function() {
-                $('#progress-container').show();
-                startTime = new Date();
-                updateProgress();
+            // Check for saved progress only on initial page load
+            if (!sessionStorage.getItem('progressChecked')) {
+                checkForSavedProgress();
+                sessionStorage.setItem('progressChecked', 'true');
+            }
+            
+            function checkForSavedProgress() {
+                fetch('/check_progress')
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.has_progress) {
+                            if (confirm('Found saved progress from a previous session. Would you like to resume?')) {
+                                resumeProgress();
+                            }
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error checking progress:', error);
+                    });
+            }
+            
+            function resumeProgress() {
+                fetch('/resume_progress')
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.status === 'resumed') {
+                            $('#progress-container').show();
+                            startTime = new Date();
+                            updateProgress();
+                            toggleControlButtons(true);
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error resuming progress:', error);
+                    });
+            }
+            
+            function toggleControlButtons(isProcessing) {
+                if (isProcessing) {
+                    uploadBtn.style.display = 'none';
+                    startBtn.style.display = 'none';
+                    pauseBtn.style.display = 'inline-block';
+                    downloadBtn.style.display = 'inline-block';
+                    uploadStatus.style.display = 'none';
+                } else {
+                    uploadBtn.style.display = 'inline-block';
+                    startBtn.style.display = 'inline-block';
+                    pauseBtn.style.display = 'none';
+                    downloadBtn.style.display = 'none';
+                }
+            }
+            
+            startBtn.addEventListener('click', async function() {
+                try {
+                    startBtn.disabled = true;
+                    uploadStatus.textContent = 'Starting analysis...';
+                    progressContainer.style.display = 'block';
+                    
+                    const response = await fetch('/start_analysis');
+                    const data = await response.json();
+                    
+                    if (data.status === 'processing') {
+                        // Show pause button and hide start button
+                        startBtn.style.display = 'none';
+                        pauseBtn.style.display = 'inline-block';
+                        downloadBtn.style.display = 'inline-block';
+                        
+                        // Start progress updates
+                        startTime = new Date();
+                        gptTotal.textContent = data.total;
+                        updateProgress();
+                    } else if (data.error) {
+                        uploadStatus.textContent = 'Error: ' + data.error;
+                        startBtn.disabled = false;
+                        progressContainer.style.display = 'none';
+                    }
+                } catch (error) {
+                    console.error('Error starting analysis:', error);
+                    uploadStatus.textContent = 'Error starting analysis. Please try again.';
+                    startBtn.disabled = false;
+                    progressContainer.style.display = 'none';
+                }
+            });
+            
+            pauseBtn.addEventListener('click', async function() {
+                try {
+                    const response = await fetch('/stop_analysis');
+                    const data = await response.json();
+                    
+                    if (data.status === 'paused') {
+                        // Hide pause button and show resume and download buttons
+                        this.style.display = 'none';
+                        resumeBtn.style.display = 'inline-block';
+                        downloadBtn.style.display = 'inline-block';
+                        
+                        // Update progress text
+                        if (data.has_results) {
+                            progressText.textContent = `Analysis paused. Found ${data.total_results} matching companies out of ${data.total_analyzed} analyzed.`;
+                        } else {
+                            progressText.textContent = 'Analysis paused. No results available yet.';
+                        }
+                        
+                        // Keep the progress container visible
+                        progressContainer.style.display = 'block';
+                    } else {
+                        alert('Error pausing analysis');
+                    }
+                } catch (error) {
+                    console.error('Error pausing analysis:', error);
+                    alert('Error pausing analysis. Please try again.');
+                }
+            });
+            
+            resumeBtn.addEventListener('click', async function() {
+                try {
+                    const response = await fetch('/resume_progress');
+                    const data = await response.json();
+                    
+                    if (data.status === 'resumed') {
+                        // Hide resume button and show pause button
+                        this.style.display = 'none';
+                        pauseBtn.style.display = 'inline-block';
+                        
+                        // Update progress text
+                        progressText.textContent = `Resuming analysis... ${data.processed}/${data.total} companies processed`;
+                        
+                        // Start progress updates
+                        startTime = new Date();
+                        updateProgress();
+                    } else {
+                        alert('Error resuming analysis');
+                    }
+                } catch (error) {
+                    console.error('Error resuming analysis:', error);
+                    alert('Error resuming analysis. Please try again.');
+                }
+            });
+            
+            downloadBtn.addEventListener('click', async function() {
+                try {
+                    const response = await fetch('/get_current_results');
+                    const data = await response.json();
+                    
+                    if (data.error) {
+                        alert(data.error);
+                        return;
+                    }
+                    
+                    // Directly trigger download of the CSV file
+                    if (data.csv_file) {
+                        window.location.href = `/download/${data.csv_file}`;
+                    } else {
+                        alert('No matching companies found to download');
+                    }
+                } catch (error) {
+                    console.error('Error downloading results:', error);
+                    alert('Error downloading results. Please try again.');
+                }
+            });
+            
+            $('#upload-form').on('submit', function(e) {
+                e.preventDefault();
+                const formData = new FormData(this);
+                
+                fetch('/', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.text())
+                .then(html => {
+                    document.open();
+                    document.write(html);
+                    document.close();
+                })
+                .catch(error => {
+                    console.error('Error uploading file:', error);
+                });
             });
 
             function formatTime(seconds) {
@@ -377,15 +710,36 @@
                                 const companyDiv = document.createElement('div');
                                 companyDiv.className = 'company-progress-item';
                                 
-                                const statusClass = company.status === 'completed' ? 'bg-success' : 
-                                                  company.status === 'error' ? 'bg-danger' : 
-                                                  'bg-primary';
+                                let statusClass = 'bg-primary';
+                                let statusText = company.status;
+                                
+                                switch(company.status) {
+                                    case 'completed':
+                                        statusClass = 'bg-success';
+                                        statusText = 'Completed';
+                                        break;
+                                    case 'error':
+                                        statusClass = 'bg-danger';
+                                        statusText = 'Error';
+                                        break;
+                                    case 'analyzing':
+                                        statusClass = 'bg-primary';
+                                        statusText = 'Analyzing';
+                                        break;
+                                    case 'retrying':
+                                        statusClass = 'bg-warning';
+                                        statusText = `Retrying (${company.retry_count}/3)`;
+                                        break;
+                                    default:
+                                        statusClass = 'bg-secondary';
+                                        statusText = company.status;
+                                }
                                 
                                 // Calculate current analysis time for analyzing companies
                                 let timeDisplay = '';
                                 let progressWidth = '100%';
                                 
-                                if (company.status === 'analyzing') {
+                                if (company.status === 'analyzing' || company.status === 'retrying') {
                                     const currentTime = (new Date().getTime() / 1000) - company.start_time;
                                     timeDisplay = formatTime(currentTime);
                                     progressWidth = '50%';
@@ -403,9 +757,11 @@
                                         </div>
                                     </div>
                                     <div class="company-progress-status">
-                                        <span>Status: ${company.status}</span>
+                                        <span>Status: ${statusText}</span>
                                         <span class="company-progress-time">Time: ${timeDisplay}</span>
                                         ${company.score > 0 ? `<span class="company-progress-score">Score: ${company.score}/10</span>` : ''}
+                                        ${company.retry_count > 0 ? `<span class="company-progress-retry">Retries: ${company.retry_count}/3</span>` : ''}
+                                        ${company.error_message ? `<div class="company-error-message">Error: ${company.error_message}</div>` : ''}
                                     </div>
                                 `;
                                 
@@ -413,11 +769,94 @@
                             });
                             
                             setTimeout(updateProgress, 100);
-                        } else if (data.status === 'completed') {
+                        } else if (data.status === 'completed' || data.status === 'stopped' || data.status === 'error') {
                             progressContainer.style.display = 'none';
-                            if (resultsContainer) {
-                                resultsContainer.style.display = 'block';
+                            
+                            // Show error message if analysis failed
+                            if (data.status === 'error' && data.error_message) {
+                                const errorDiv = document.createElement('div');
+                                errorDiv.className = 'alert alert-danger mt-3';
+                                errorDiv.textContent = data.error_message;
+                                progressContainer.parentNode.insertBefore(errorDiv, progressContainer.nextSibling);
                             }
+                            
+                            // Show results if available
+                            if (data.status === 'completed' && data.total_results > 0) {
+                                // Create results table
+                                const resultsDiv = document.createElement('div');
+                                resultsDiv.className = 'mt-4';
+                                resultsDiv.innerHTML = `
+                                    <h2>Results (${data.total_results} matches found)</h2>
+                                    <div class="table-responsive">
+                                        <table class="table table-striped">
+                                            <thead>
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <th>URL</th>
+                                                    <th>Analysis</th>
+                                                    <th>Score</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody id="results-table-body">
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                `;
+                                progressContainer.parentNode.insertBefore(resultsDiv, progressContainer.nextSibling);
+                                
+                                // Create download section
+                                const downloadDiv = document.createElement('div');
+                                downloadDiv.className = 'download-section mt-4';
+                                downloadDiv.innerHTML = `
+                                    <h4>Download Results</h4>
+                                    <div class="download-buttons">
+                                        ${data.excel_file ? `
+                                            <a href="/download/${data.excel_file}" class="btn btn-success mb-2">
+                                                <i class="fas fa-file-excel"></i> Download Matching Companies (Excel)
+                                            </a>
+                                        ` : ''}
+                                        ${data.csv_file ? `
+                                            <a href="/download/${data.csv_file}" class="btn btn-primary mb-2">
+                                                <i class="fas fa-file-csv"></i> Download Matching Companies (CSV)
+                                            </a>
+                                        ` : ''}
+                                        ${data.all_csv_file ? `
+                                            <a href="/download/${data.all_csv_file}" class="btn btn-info mb-2">
+                                                <i class="fas fa-file-csv"></i> Download All Analyzed Companies (CSV)
+                                            </a>
+                                        ` : ''}
+                                    </div>
+                                    <div class="results-summary mt-3">
+                                        <p class="text-muted">
+                                            Total companies analyzed: ${data.total_analyzed}<br>
+                                            Companies meeting criteria: ${data.total_results}
+                                        </p>
+                                    </div>
+                                `;
+                                progressContainer.parentNode.insertBefore(downloadDiv, progressContainer.nextSibling);
+                                
+                                // Fetch and populate results
+                                fetch('/results')
+                                    .then(response => response.json())
+                                    .then(results => {
+                                        const tbody = document.getElementById('results-table-body');
+                                        results.forEach(result => {
+                                            const row = document.createElement('tr');
+                                            row.innerHTML = `
+                                                <td>${result.name}</td>
+                                                <td><a href="${result.url}" target="_blank" rel="noopener noreferrer">${result.url}</a></td>
+                                                <td>${result.analysis}</td>
+                                                <td>${result.score}/10</td>
+                                            `;
+                                            tbody.appendChild(row);
+                                        });
+                                    })
+                                    .catch(error => {
+                                        console.error('Error fetching results:', error);
+                                    });
+                            }
+                            
+                            toggleControlButtons(false);
                         }
                     })
                     .catch(error => {

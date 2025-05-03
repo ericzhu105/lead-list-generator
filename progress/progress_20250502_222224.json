@@ -1,0 +1,172 @@
+{
+  "current": 25,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 23,
+  "current_company": "Perygee",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249731.948987,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249732.341912,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.108126,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.254327,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249733.911042,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249734.432559,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249735.28343,
+      "analysis_time": 2.5
+    },
+    {
+      "name": "Impraise",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249735.561235,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249736.236724,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249736.900189,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Dura Software",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249737.611995,
+      "analysis_time": 1.6
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249737.784192,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249738.642791,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "DataChat",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249739.224154,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249739.783248,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249740.319052,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Addressable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249740.748661,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Docket",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249741.039926,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Pump.co",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249741.549894,
+      "analysis_time": 1.8
+    },
+    {
+      "name": "Terminal ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249742.006728,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Galileo",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249743.118296,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "BioRender",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249743.344264,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Perygee",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249743.84414,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249731.947836
+}

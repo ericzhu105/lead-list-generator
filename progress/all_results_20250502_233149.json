@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "**Score: 2/10**  \n**Verdict: No**\n\n**Explanation:**  \nRIOS is focused on empowering manufacturers to improve industrial process control using AI Agents. Their primary focus is on industrial operations rather than people data or company profiles. They don't explicitly align with Aviato.co's offering of data API for people & company profiles, especially for tech workers. Therefore, RIOS would not be a good fit for Aviato.co.",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 3/10  \nExplanation: The company operates in the delivery and return experience industry and does not seem to have a direct need for people data related to tech workers. While they may use data for their operations, there is no explicit indication of a clear use case for tech worker data.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 3/10\nExplanation: The company's focus on enterprise data management for Kubernetes backup and disaster recovery does not align directly with the data API for people and company profiles offered by Aviato.co. There is no clear indication that they have a need for people data as their primary focus is on data management tasks related to Kubernetes operations.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 2/10\nExplanation: Based on the provided criteria, this company does not demonstrate a clear need for people data, specifically data on tech workers. The description focuses more on data integration and operations, rather than utilizing data on individuals. Therefore, there is no direct alignment with Aviato.co's product offering.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\n\nExplanation: Stanza is a scheduling platform that helps businesses manage their events, appointments, and shifts seamlessly. While Stanza is not explicitly in the tech recruiting or B2B data enrichment space, the nature of its business involves managing people's schedules and appointments. Since there is a clear use case for people data in optimizing scheduling efficiency and understanding attendee demographics, there is a strong potential for a beneficial integration with Aviato.co's Data API for People & Company profiles.\n\nVerdict: YES",
+    "score": 9
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10\nExplanation: Stanza's product and service offerings would greatly benefit from Aviato.co's Data API for People & Company profiles, particularly due to their focus on streamlining scheduling and event management. By leveraging data on work experience, job history, and other relevant information from tech workers, Stanza can enhance its platform's capabilities, optimize event coordination, and provide personalized experiences for users.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "IsoTalent",
+    "url": "https://isotalent.com",
+    "analysis": "1. Score: 8/10\n2. Explanation: The company description indicates that they work with an employee search firm and focus on successful long-term placements. This suggests they are likely actively involved in recruitment and may have a direct need for detailed people data as provided by Aviato.co's Data API for People & Company profiles.\n3. Verdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Aniline",
+    "url": "https://aniline.ai",
+    "analysis": "Score: 9/10  \nExplanation: Aniline's focus on providing a 360\u00b0 view of company culture aligns well with Aviato.co's data API for People & Company profiles, especially in terms of work experience, job history, and potentially compensation data. The use of artificial intelligence to provide categorized insights suggests a clear need for detailed people data, making it a strong fit for Aviato.co's services.  \nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Cascade AI",
+    "url": "https://gocascade.ai",
+    "analysis": "Score: 9/10  \nExplanation: Cascade AI would be a good fit for Aviato.co as they are a leading enterprise AI solution for HR and Benefits, indicating a clear need for people data to enhance employee assistance. Their advanced AI technology empowers HR teams, pointing towards a potential use case for data API for people profiles.  \nVerdict: Yes",
+    "score": 9
+  }
+]

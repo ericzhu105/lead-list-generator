@@ -1,0 +1,75 @@
+{
+  "current": 7,
+  "total": 7,
+  "status": "completed",
+  "processed_companies": 0,
+  "analyzed_companies": 7,
+  "current_company": "Bitgreen",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252958.267622,
+      "analysis_time": 13.4,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252959.626135,
+      "analysis_time": 13.1,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252960.576038,
+      "analysis_time": 13.2,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252961.750243,
+      "analysis_time": 13.1,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252962.732346,
+      "analysis_time": 13.1,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252975.83248,
+      "analysis_time": 6.8,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252977.09486,
+      "analysis_time": 8.0,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    }
+  ],
+  "start_time": 1746252958.26546,
+  "should_stop": false
+}

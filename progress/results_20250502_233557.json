@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10  \nExplanation: Stanza is a workforce management platform designed to help businesses manage hourly workers and shift scheduling efficiently. Given its focus on workforce organization and management, there is a definite need for people data, job history, and work experience - all of which align with Aviato's Data API for People & Company profiles. Stanza could benefit from the data provided by Aviato in optimizing shift schedules and improving workforce management practices.  \nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "pymetrics ",
+    "url": "https://pymetrics.ai",
+    "analysis": "Score: 8/10\n\nExplanation: pymetrics is a definite match for Aviato.co because they are a company that helps businesses build diverse and innovative teams using behavioral science and AI technology. As they focus on helping companies with their hiring processes and team-building, they would likely have a direct need for the data API for People & Company profiles offered by Aviato.co.\n\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Qualified",
+    "url": "https://qualified.com",
+    "analysis": "Score: 8/10\nExplanation: This company would be a good fit as it involves AI-driven marketing and sales development tasks that could benefit from data on tech workers. The product offering aligns well with the need for people data and company profiles focused on tech workers.\nVerdict: Yes",
+    "score": 8
+  }
+]

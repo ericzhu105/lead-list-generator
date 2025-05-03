@@ -1,0 +1,515 @@
+{
+  "current": 82,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 1,
+  "analyzed_companies": 72,
+  "current_company": "Fuisz Video, Inc.",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249362.417506,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "DataChat",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.01664,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.586308,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Docket",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.706111,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Terminal ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.22117,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.436673,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.904174,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Addressable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249365.227931,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249365.86531,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "BioRender",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249366.047778,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Galileo",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249366.619002,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Perygee",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249367.136476,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "CastleLine",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249367.199353,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Edgegap",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249368.17784,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "DocbookMD",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249368.182245,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249368.967052,
+      "analysis_time": 0.0
+    },
+    {
+      "name": "120Water",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249368.968053,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249369.376539,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "LUK Network",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249369.570532,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "nVision Medical",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249370.416934,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Oka, The Carbon Insurance Company",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249370.551924,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Cargobot",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249371.29666,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Gluent",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249371.509073,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Anzen Insurance",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249372.164978,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Orpyx Medical Technologies",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249372.389272,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Zip Security",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249373.03936,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Yesware",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249373.626312,
+      "analysis_time": 1.6
+    },
+    {
+      "name": "IoTium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249373.830319,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "PRIVIT",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249374.716572,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "A2 Biotherapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249375.184007,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Peach",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249375.906298,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Hometeam ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249376.688498,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "HotSpot Therapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249377.07752,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Draup",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249377.596426,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Monogoto",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249378.352028,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Ambient Photonics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249378.495594,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Evo Security",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249379.260213,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "RouteThis",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249379.331142,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Graviti",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249380.002714,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Lyatiss",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249380.74842,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Intelon Optics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249381.393478,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "WingWork",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249382.071543,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Andium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249382.208378,
+      "analysis_time": 4.7
+    },
+    {
+      "name": "Cortex",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249382.804046,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "Performive",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249384.107454,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "LuckyTruck",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249384.744214,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "E-ppraisal",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249385.666448,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "ReturnLogic",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249386.547085,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Center ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249386.939465,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Versanis Bio",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249387.490329,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Kapital",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249388.332258,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Horizon3.ai",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249388.44941,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Xooker",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249389.055909,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Octet Scientific, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249389.235203,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "ALLO - Backed by Zoom",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249389.733528,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Neomar",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249389.954117,
+      "analysis_time": 1.8
+    },
+    {
+      "name": "CommonGround",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249390.618,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Artio Medical, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249391.43585,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Audit Sight Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249391.789373,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Compliable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249392.377845,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Vivid Theory",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249392.67333,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Spekit",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249393.547818,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Ebyline, Inc. an IZEA Innovation",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249393.80159,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Tanbark Molded Fiber Products",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249394.473531,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "RNAimmune",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249394.653972,
+      "analysis_time": 5.6
+    },
+    {
+      "name": "Ownify",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249395.290806,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Nexosome Oncology",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249396.154786,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "HireAthena",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249396.812381,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sharper Shape Group",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249397.594451,
+      "analysis_time": 1.8
+    },
+    {
+      "name": "ThreeKit",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249399.396421,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Atomic Industries",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249400.297115,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Fuisz Video, Inc.",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249400.394993,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249362.41742
+}

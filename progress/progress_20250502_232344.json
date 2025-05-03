@@ -1,0 +1,282 @@
+{
+  "current": 30,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 30,
+  "current_company": "nVision Medical",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.50327,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.512533,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.521571,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Flume Health",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.528482,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Stanza",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.534998,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.210885,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Bitgreen",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.217709,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Impraise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.225049,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.233069,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.281306,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dura Software",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.969882,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DataChat",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.980829,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.99078,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Docket",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253413.00063,
+      "analysis_time": 5.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Terminal ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253413.010217,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.369216,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.382786,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Addressable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.393895,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.405347,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BioRender",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.413699,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Galileo",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.110568,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Perygee",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.119465,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CastleLine",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.12752,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Edgegap",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.134826,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DocbookMD",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.142045,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746253421.393326,
+      "analysis_time": 3.0,
+      "retry_count": 3,
+      "error_message": "can only concatenate str (not \"float\") to str"
+    },
+    {
+      "name": "120Water",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.399997,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.409395,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "LUK Network",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.417246,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "nVision Medical",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.424651,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    }
+  ],
+  "start_time": 1746253409.502043,
+  "should_stop": false
+}

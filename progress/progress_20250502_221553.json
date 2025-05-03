@@ -1,0 +1,18 @@
+{
+  "current": 1,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 1,
+  "current_company": "RIOS Intelligent Machines",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249352.25498,
+      "analysis_time": 0.9
+    }
+  ],
+  "start_time": 1746249352.253939
+}

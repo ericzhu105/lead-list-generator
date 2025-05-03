@@ -1,0 +1,25 @@
+{
+  "current": 12,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 2,
+  "current_company": "DataChat",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249362.417506,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "DataChat",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249363.01664,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249362.41742
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Dura Software",
+    "url": "https://dura.software",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "DataChat",
+    "url": "https://datachat.ai",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "BoomerangFX",
+    "url": "https://boomerangfx.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Docket",
+    "url": "https://usedocket.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Terminal ",
+    "url": "https://withterminal.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Colabo Inc ",
+    "url": NaN,
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "SuperOrdinary",
+    "url": "https://superordinary.co",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Addressable",
+    "url": "https://elitelistings.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Pump.co",
+    "url": "https://pump.co",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "BioRender",
+    "url": "https://biorender.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Galileo",
+    "url": "https://galileo.ai",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Perygee",
+    "url": "https://perygee.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "CastleLine",
+    "url": "https://altisource.com/originations/insurance-castleline",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Edgegap",
+    "url": "https://edgegap.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "DocbookMD",
+    "url": "https://docbookmd.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Salmedix Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: can only concatenate str (not \"float\") to str",
+    "score": 0
+  },
+  {
+    "name": "120Water",
+    "url": "https://120water.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Ability Biologics",
+    "url": "https://ability.bio/en",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "LUK Network",
+    "url": "https://luknetwork.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "nVision Medical",
+    "url": "https://active-genetics.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Oka, The Carbon Insurance Company",
+    "url": "https://carboninsurance.co",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Cargobot",
+    "url": "https://cargobot.io",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Gluent",
+    "url": NaN,
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Anzen Insurance",
+    "url": "https://anzen.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Orpyx Medical Technologies",
+    "url": "https://orpyx.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Zip Security",
+    "url": "https://zipsec.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Yesware",
+    "url": "https://yesware.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "IoTium",
+    "url": NaN,
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "PRIVIT",
+    "url": "https://privit.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "A2 Biotherapeutics, Inc.",
+    "url": "https://a2bio.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Hometeam ",
+    "url": "https://careguardianinc.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "HotSpot Therapeutics, Inc.",
+    "url": "https://hotspotthera.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Monogoto",
+    "url": "https://monogoto.io",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Ambient Photonics",
+    "url": "https://ambientphotonics.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Evo Security",
+    "url": "https://evosecurity.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "RouteThis",
+    "url": "https://routethis.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  },
+  {
+    "name": "Lyatiss",
+    "url": NaN,
+    "analysis": "Error analyzing company: object ChatCompletion can't be used in 'await' expression",
+    "score": 0
+  }
+]

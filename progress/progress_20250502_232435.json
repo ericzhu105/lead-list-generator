@@ -1,0 +1,1632 @@
+{
+  "current": 180,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 4,
+  "analyzed_companies": 180,
+  "current_company": "PayVMS",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.50327,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.512533,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.521571,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Flume Health",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.528482,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Stanza",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253409.534998,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.210885,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Bitgreen",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.217709,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Impraise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.225049,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.233069,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253411.281306,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dura Software",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.969882,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DataChat",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.980829,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253412.99078,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Docket",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253413.00063,
+      "analysis_time": 5.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Terminal ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253413.010217,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.369216,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.382786,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Addressable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.393895,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.405347,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BioRender",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253418.413699,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Galileo",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.110568,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Perygee",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.119465,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CastleLine",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.12752,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Edgegap",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.134826,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DocbookMD",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253420.142045,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Salmedix Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746253421.393326,
+      "analysis_time": 3.0,
+      "retry_count": 3,
+      "error_message": "can only concatenate str (not \"float\") to str"
+    },
+    {
+      "name": "120Water",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.399997,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ability Biologics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.409395,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "LUK Network",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.417246,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "nVision Medical",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253421.424651,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Oka, The Carbon Insurance Company",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253424.427253,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cargobot",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253424.435009,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Gluent",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253424.443879,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Anzen Insurance",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253424.452549,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Orpyx Medical Technologies",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253424.461506,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Zip Security",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253425.905631,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Yesware",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253425.916124,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "IoTium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253425.925922,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "PRIVIT",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253425.934444,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "A2 Biotherapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253425.942174,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Peach",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253427.379588,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Hometeam ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253427.386565,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "HotSpot Therapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253427.392869,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Draup",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253427.399812,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Monogoto",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253427.405897,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ambient Photonics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253428.770398,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Evo Security",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253428.776874,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "RouteThis",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253428.783635,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Graviti",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253428.789636,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Lyatiss",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253428.797698,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Intelon Optics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253429.965492,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "WingWork",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253429.974404,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Andium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253429.981442,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cortex",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253429.987985,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Performive",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253429.995413,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "LuckyTruck",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253431.210717,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "E-ppraisal",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253431.219667,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ReturnLogic",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253431.227142,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Center ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253431.236106,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Versanis Bio",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253431.243358,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Kapital",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253432.602769,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Horizon3.ai",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253432.612457,
+      "analysis_time": 4.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Xooker",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253432.623092,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Octet Scientific, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253432.631852,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ALLO - Backed by Zoom",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253432.640594,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Neomar",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253436.895051,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CommonGround",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253436.910147,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Artio Medical, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253436.917983,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Audit Sight Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253436.928057,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Compliable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253436.936705,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Vivid Theory",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253438.365912,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Spekit",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253438.372249,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ebyline, Inc. an IZEA Innovation",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253438.379113,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tanbark Molded Fiber Products",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253438.385943,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "RNAimmune",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253438.392062,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ownify",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253439.935428,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Nexosome Oncology",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253439.946072,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "HireAthena",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253439.955389,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sharper Shape Group",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253439.964642,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ThreeKit",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253439.974871,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Atomic Industries",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253441.096536,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Fuisz Video, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253441.103716,
+      "analysis_time": 3.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "IGNITE IMPULSE, INC.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253441.111518,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "OEwaves Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253441.118061,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Hubly Inc",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253441.12433,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Avstera Therapeutics Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253444.082067,
+      "analysis_time": 6.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "RapidValue",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253444.092016,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Monograph",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253444.100655,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "X-energy",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253444.1083,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Assured Allies",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253444.116325,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "VergeSense",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253450.715612,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Prellis Biologics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253450.723676,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BlockSpaces",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253450.731308,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ReNAgade Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253450.738253,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dispatch",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253450.744661,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BlueRock Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253452.020497,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Vectara",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253452.028576,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Brightline",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253452.036751,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CinRx Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253452.043788,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CyberMDX - A Forescout Company",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253452.051151,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Kard",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253453.321008,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tropic",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253453.332428,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "nBand Communications",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253453.342503,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Canalyst",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253453.353927,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CGE Energy",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253453.361541,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Adjuvance Technologies, Inc",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253454.427428,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "IMAJION",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253454.435264,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "mozaic.io",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253454.442804,
+      "analysis_time": 1.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "FleetNurse",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253454.450756,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "My Intelligent Machines Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253454.457236,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Hopkins Bellemeade",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253456.216474,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Kriya Therapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253456.224252,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Amytrx Therapeutics, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253456.231591,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Fennel",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253456.23838,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Aelita Software",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253456.246137,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Renal Solutions",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253457.86998,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Highway Benefits",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253457.877518,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "FI Navigator Corporation",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253457.88467,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Air Space Intelligence",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253457.891347,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Porosity",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253457.898017,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Spring Science",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253459.306603,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Laudable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253459.314816,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Gestalt",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253459.321302,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ReGelTec, Inc",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253459.327813,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BlackFog",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253459.334192,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Akiri",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253461.038257,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Retrium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253461.045548,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Resurface Labs",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253461.062305,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ojjo, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253461.068985,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "AffaMed Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253461.075457,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CoinBanken",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253462.249743,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "1Konto",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253462.256947,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Connected Data",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253462.263972,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Soteria Biotherapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253462.270681,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BioPoly",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253462.277202,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "AI Dynamics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253463.680717,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cove",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253463.687337,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "MSBAI ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253463.694198,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Together AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253463.700574,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "AppStream",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253463.707367,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DeepBrain AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253464.823497,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "FX HedgePool",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253464.83277,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "3T Biosciences",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253464.842856,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cotherix",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253464.851621,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "PreAct Technologies",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253464.860387,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Logiwa",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253465.901688,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SKAEL",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253465.915629,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Debut",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253465.92822,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Eyebot",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253465.93808,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Outplay",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253465.94892,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Lower",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253467.34449,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "System 9, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253467.351054,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ChartHop",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253467.357835,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Zmanda",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253467.364748,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Afficiency",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253467.371064,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CartUp AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253468.489626,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BuzzCast",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253468.496437,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "EDGE Markets",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253468.503044,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Nuqleous",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253468.509182,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ricult",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253468.515901,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Fingerprint",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253469.828852,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Glydways",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253469.835391,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Zone7",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253469.841913,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Paige",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253469.848304,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "methinks",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253469.854828,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BACKBONE",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253471.037075,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Zuper",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253471.043782,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CGTime",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253471.050863,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sunflower Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253471.058592,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Mulberry",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253471.065434,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Melzi Corporation",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253472.14707,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Calico",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253472.154288,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Axiom Space",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253472.161806,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Level",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253472.168808,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dimension Inx",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253472.175784,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Vividon, Inc",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253473.904428,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Backpack",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253473.911544,
+      "analysis_time": 2.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Ezra AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253473.918143,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "adonis",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253473.924684,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "PayVMS",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253473.931281,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    }
+  ],
+  "start_time": 1746253409.502043,
+  "should_stop": false
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 3/10\nExplanation: RIOS is focused on empowering manufacturers with AI Agents to enhance industrial process control, which does not align with the explicit need for people data related to tech workers for Aviato.co's Data API.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Sway",
+    "url": "https://shipsway.com",
+    "analysis": "Score: 3/10\nExplanation: The company operates in the delivery and returns space for online brands and retailers, which does not align with the need for people data, company profiles, or tech worker data. There is no clear use case for the data Aviato.co provides in this scenario.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Veeam Kasten",
+    "url": "https://veeam.com/products/cloud/kubernetes-data-protection.html",
+    "analysis": "Score: 2/10\n\nExplanation: The company is focused on developing an enterprise data management platform for Kubernetes backup and disaster recovery, which does not explicitly align with the need for people data or company profiles for tech workers. There is no clear indication that they would require or benefit from the data API provided by Aviato.co.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Flume Health",
+    "url": "https://flumehealth.com",
+    "analysis": "Score: 6/10\n\nExplanation: The company description mentions modernizing data operations, but it doesn't specifically mention needing people data for tech worker profiles. While they may benefit from data API for people profiles, the need is not explicit in the description provided.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 6/10\nExplanation: Stanza does not explicitly mention a need for people or company data in their company description. However, they could potentially benefit from tech worker data for personalization or targeting purposes.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "ESP Pharma",
+    "url": "https://esppharma.md",
+    "analysis": "Score: 2/10\nExplanation: E Shop Pharmacy is a non-software E-commerce company that sells medications online. They do not explicitly require people data for their operations.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Bitgreen",
+    "url": "https://bitgreen.org",
+    "analysis": "Score: 1/10\n\nExplanation: Bitgreen is focused on blockchain, renewable energy, personal growth, and impact initiatives. There is no explicit need for people or company data related to tech workers, work experience, job history, or compensation. The product offering of Aviato.co, which is data API for People & Company profiles focused primarily on tech workers, does not align with Bitgreen's areas of focus.\n\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Impraise",
+    "url": "https://impraise.com",
+    "analysis": "Score: 3/10  \nExplanation: The company's focus is on performance management software and continuous feedback, which does not align directly with the need for people data on work experience, email, job history, compensation for tech workers that Aviato.co offers. There is no clear mention of requiring such data.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Arkuda Therapeutics",
+    "url": "https://arkudatx.com",
+    "analysis": "Score: 1/10  \nExplanation: The company description indicates a focus on discovering therapies for neurodegenerative diseases, showing no direct need for the data API for People & Company profiles related to tech workers.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Acenxion Biosystems",
+    "url": "https://acenxionbiosystems.com",
+    "analysis": "Score: 1/10\nExplanation: The company is focused on developing an antimicrobial susceptibility testing system for clinical purposes, which does not align with the need for people data, company profiles, or data on tech workers that Aviato.co provides.\nVerdict: No",
+    "score": 0
+  }
+]

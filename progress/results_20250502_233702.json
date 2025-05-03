@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10  \nExplanation: Stanza is a workforce management platform designed to help businesses manage hourly workers and shift scheduling efficiently. Given its focus on workforce organization and management, there is a definite need for people data, job history, and work experience - all of which align with Aviato's Data API for People & Company profiles. Stanza could benefit from the data provided by Aviato in optimizing shift schedules and improving workforce management practices.  \nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "pymetrics ",
+    "url": "https://pymetrics.ai",
+    "analysis": "Score: 8/10\n\nExplanation: pymetrics is a definite match for Aviato.co because they are a company that helps businesses build diverse and innovative teams using behavioral science and AI technology. As they focus on helping companies with their hiring processes and team-building, they would likely have a direct need for the data API for People & Company profiles offered by Aviato.co.\n\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Qualified",
+    "url": "https://qualified.com",
+    "analysis": "Score: 8/10\nExplanation: This company would be a good fit as it involves AI-driven marketing and sales development tasks that could benefit from data on tech workers. The product offering aligns well with the need for people data and company profiles focused on tech workers.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "AllVoices",
+    "url": "https://allvoices.co",
+    "analysis": "1. Score: 9/10\n2. Explanation: AllVoices would be a good fit because they provide a platform for anonymous reports and investigations, which likely involve handling sensitive information about people. Their use of AI for automations aligns with the need for efficient handling of people data, making them a strong candidate for utilizing Aviato.co's Data API.\n3. Verdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "N2K Networks",
+    "url": "https://n2k.com",
+    "analysis": "Score: 9/10\nExplanation: N2K's strategic cyber workforce intelligence aligns well with Aviato.co's product offering of data API for People & Company profiles, especially focusing on tech workers. They explicitly mention helping organizations build and maintain high-performance teams, which indicates a clear need for people data.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Worky",
+    "url": "https://worky.com",
+    "analysis": "Score: 8/10\nExplanation: Worky fits the criteria as they specialize in finding talent for various fields, including engineering and design, which aligns with Aviato.co's product focus on providing data on tech workers. They have a direct need for people data for their recruiting purposes.\nVerdict: Yes",
+    "score": 8
+  }
+]

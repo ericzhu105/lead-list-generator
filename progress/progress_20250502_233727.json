@@ -1,0 +1,2037 @@
+{
+  "current": 1565,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 4,
+  "analyzed_companies": 225,
+  "current_company": "SeeItWork",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254228.216292,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Darklang",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254228.217161,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Oort ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254228.228432,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254228.229339,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Galileo Financial Technologies",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.241373,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2256' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Loyal",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.241409,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2257' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "HelloSign",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.24142,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2258' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.241932,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2251' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.241951,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2252' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.241959,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2253' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Uniform",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254228.589461,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Gutsy",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.758177,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2264' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Guoxinex",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.758227,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2265' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Gig and Take",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.758236,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2266' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Cypherpath Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254228.758243,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2267' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Arist",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254229.254634,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Nest Genomics ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254229.261186,
+      "analysis_time": 1.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pilot Project Brewing",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254229.268165,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Say",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.274403,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2282' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Aspen RxHealth",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.274431,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2283' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Fletch",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254229.320397,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SimpliContract",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.328667,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2288' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "8Flow",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.328698,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2289' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Aniline",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.328706,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2290' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Variant Bio",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.328713,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2291' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Soliyarn",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254229.837623,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Black Crow AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.844791,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2294' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Sonex Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.844819,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2295' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "7thOnline",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.844827,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2296' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "VIOLET",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254229.844833,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2297' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "LANGaware",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254230.263395,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Althea, CMO",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254230.271786,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BRIVAS PRIME",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.278968,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2301' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Craft Standard Draft Cocktails",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.278996,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2302' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Metadome.ai",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.279004,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2303' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Depix AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254230.934948,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Causality Link",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254230.941653,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cubeyou",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.948801,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2308' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "AgencyQ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.948828,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2309' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Kepler Communications Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254230.948836,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2310' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Momentum.io",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254231.31522,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "InDevR, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254231.324613,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Flashfood",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.334748,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2315' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Saltbox",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.334779,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2316' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Cheetah Digital",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.334789,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2317' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Syncly ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254231.39286,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Hummingbirds",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.401266,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2321' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Prism Skylabs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.401301,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2322' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Webs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.40131,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2323' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Pod Foods",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.401316,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2324' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Yugabyte",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254231.947374,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Cultivate",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254231.954803,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "MarketReader",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.961495,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2328' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Cascade AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.961521,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2329' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Zulu Pods, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254231.961529,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2330' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Goloot",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254232.300386,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "CaaMTech",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254232.307158,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "AOBiome Therapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.315492,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2335' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Anyword",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.315525,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2336' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "SmashFly Technologies",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.315533,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2337' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Critical Data Solutions",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254232.569991,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ASKGENE PHARMA, INC.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.577245,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2341' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Sleuth",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.577275,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2342' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Safesite",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.577283,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2343' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Clowder",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254232.577289,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2344' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Health Data Analytics Institute ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254233.196549,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "A3 Surfaces",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254233.205154,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Shelf",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254233.215166,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Targetable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.22285,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2349' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Wellth",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.222877,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2350' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "SmarterDx",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254233.350697,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Goldcast",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.357567,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2355' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "ActiveRain",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.3576,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2356' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "CoinAlpha, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.357609,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2357' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Capsule8",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.357616,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2358' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Amplion Clinical Communications",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254233.487067,
+      "analysis_time": 5.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Epilogue Systems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.494594,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2361' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Third Wave Automation",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.49463,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2362' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Stratalis Consulting",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.494639,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2363' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "H2U Technologies, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254233.494647,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2364' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Brightside",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254234.178088,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sila",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254234.18542,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Phylum",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254234.192062,
+      "analysis_time": 5.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "RebelMouse",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.198593,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2369' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Zilla Security",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.19862,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2370' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Toggle, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254234.484313,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "PURE Property Management",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.491391,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2375' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Nammu21",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.491418,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2376' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "World Energy Labs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.491427,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2377' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "National Advisors Group",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254234.491433,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2378' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Confirm",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254235.570006,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Kanarys",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254235.576779,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Leap",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254235.586739,
+      "analysis_time": 1.5,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Reigning Champs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254235.59455,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2383' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "boostsecurity.io",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254235.594583,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2384' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Arixa Pharmaceuticals",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254237.064959,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DRiViLL",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254237.07321,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "StrideBio",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254237.082128,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tioga Pharmaceuticals",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254237.178976,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2401' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Centaur Analytics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254237.179003,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2402' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Learn In",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254238.393717,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Lumeris",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254238.401524,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Rightfoot",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254238.408497,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Civil Maps",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254238.415555,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2409' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "NavTrac ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254238.415593,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2410' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Parse Biosciences",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254239.038566,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "PurpleLab",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.046125,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2415' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Glance",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.046165,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2416' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Bionaut Labs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.046174,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2417' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Gateway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.046185,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2418' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Calven",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254239.307757,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Brand.AI",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254239.317012,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sunny",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254239.325155,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "intenseye",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.332202,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2423' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Go2",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.332233,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2424' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Maybell Quantum",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254239.718247,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SingleFile",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.730541,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2429' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Somewear Labs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.730571,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2430' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "TAU Systems",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.73058,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2431' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Flare",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254239.730588,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2432' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "CurvaFix, Inc.",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.204181,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Beamer",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.211287,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2435' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Vilynx ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.211313,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2436' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Scholars App",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.211322,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2437' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Coder",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.211328,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2438' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Sundeck",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.349556,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Quantum Technology Sciences",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.35672,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "TypingDNA",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.363309,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "GALY",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.372348,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2443' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Atlas Digital Group",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.372448,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2444' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Clockwise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.450932,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Payabli",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.458024,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2449' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Mendel.ai",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.458054,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2450' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Flume",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.458066,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2451' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Intrinsic",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.458073,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2452' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "LEX Markets",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254240.887903,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tava Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.894859,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2455' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Almond FinTech",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.894886,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2456' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Slice",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.894893,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2457' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Cognida.ai",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254240.8949,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2458' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Exo Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254241.299223,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Spaceflow",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254241.306342,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tenovos",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254241.313423,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dexterity, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.320907,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2463' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Stellate",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.320934,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2464' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "KeyCare",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254241.520457,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pearl",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.527116,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2469' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Tag-N-Trac",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.52714,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2470' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Modria",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.527148,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2471' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Freshpaint",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.527155,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2472' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Simpler Networks",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254241.805501,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Imbue",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.816939,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2475' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Plural",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.817187,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2476' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Algotive",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.817205,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2477' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Jamcracker",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254241.817212,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2478' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Zadar Labs",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254242.519146,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Solfium",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254242.525608,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Aulos Bioscience",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254242.533829,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Neuraly",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254242.534029,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Block Mining, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542201,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2483' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Biller Genie",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542227,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2484' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Playground",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542637,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2486' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Perennial",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542648,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2487' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Isima.io",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542655,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2488' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Forterra",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.542661,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2489' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Blispay",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254242.761026,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Post Acute Analytics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.768201,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2505' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "LocalizeOS",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.768229,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2506' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Datiphy Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.768237,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2507' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Hayden AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254242.768244,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2508' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "8fig",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254243.547796,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Grokker",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254243.553307,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Lucky",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254243.556073,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Trusona",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.569723,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2568' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "ScaleOps - Cloud-Native Optimization",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.569752,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2569' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Life House",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.56976,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2570' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "NextStep Robotics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.569767,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2571' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Apono",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.570305,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2564' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Diality",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.570332,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2565' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Dina",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254243.57034,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2566' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "ParkMe",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.109015,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Crate",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.11666,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SponsorUnited",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.123655,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2577' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Circ",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.123682,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2578' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Discuss",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.12369,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2579' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Protego Biopharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.703563,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "August Bioservices, LLC",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.713009,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2583' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Spontivly",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.713038,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2584' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Hippo Video",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.713046,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2585' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "FinConecta",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.713052,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2586' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "RAR3LABS",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.969817,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Surmount Bio",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.976927,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pixaera",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254244.983742,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "GoMoto",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.990302,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2591' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Turno",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254244.990328,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2592' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Boreas Technologies",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254245.156077,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Leena AI",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.162515,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2597' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "MatX",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.163635,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2598' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "i2o Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.163659,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2599' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Watchful",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.163727,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2600' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "FarmRaise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254245.807186,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "REsurety",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254245.814745,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ProjectMark CRM",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.821864,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2609' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Pasito",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.821895,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2610' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Centaur Labs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254245.821903,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2611' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "OrthoFX",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746254246.090532,
+      "analysis_time": 0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Qovia",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254246.094457,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Varos",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254246.098546,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ORA Graphene Audio",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.102829,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2620' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Zoovu",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.10286,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2621' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Ceretype Neuromedicine, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.102868,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2622' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Ripple Street",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.102875,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2623' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Geotix",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.110418,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2616' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Absio Corporation",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.110449,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2617' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Engim",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254246.110456,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2618' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Rev",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254247.027289,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Eaglebrook",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746254247.034855,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Tusaar",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.041256,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2629' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Owl Labs",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.041288,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2630' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "AGvisorPRO",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.041296,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2631' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Health at Scale",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746254247.100595,
+      "analysis_time": 0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "iVast",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.107335,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2635' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "Copado",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.107364,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2636' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "StoreConnect",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.107371,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2637' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    },
+    {
+      "name": "SeeItWork",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746254247.107377,
+      "analysis_time": 0.0,
+      "retry_count": 0,
+      "error_message": "Task <Task pending name='Task-2638' coro=<analyze_company_async() running at /Users/ericzhu/Documents/GitHub/lead-list-generator/app.py:169>> got Future <Future pending> attached to a different loop"
+    }
+  ],
+  "start_time": 1746254228.214667,
+  "should_stop": false
+}

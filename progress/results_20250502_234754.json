@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 8/10  \nExplanation: Stanza is a platform that offers AI-powered shift scheduling and workforce management solutions. While they don't explicitly mention needing people data, their focus on optimizing workforce management indicates a potential use case for data on work experience, job history, and other related information provided by Aviato.co.  \nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Company: Aviato.co\nProduct: Data API for People & Company profiles, with data on work experience, email, job history, compensation, etc primarily for tech workers.\n\nScore: 10/10\nExplanation: Aviato.co is a perfect fit for companies that need data on people and companies for enrichment, specifically in the tech industry. Their product aligns directly with the needs of AI Recruiting tools, sourcing tools requiring B2B People data, and companies explicitly working with tech worker data.\nVerdict: Yes",
+    "score": 10
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 9/10  \nExplanation: This company would be a good fit because they are developing an enterprise decision-making platform for global CXO leaders in sales and talent domains. Their platform offers real-time data on companies and decision-makers, aligning well with the data API for People & Company profiles offered by Aviato.co.  \nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Score: 9/10\nExplanation: Aviato.co would be a good fit for the company because they provide a data API specifically designed for tech workers, which aligns with the data platform's need for managing datasets and collaboration. The data API for people and company profiles offered by Aviato.co could enhance the data visualization and versioning capabilities of the company, especially if they are working with tech worker data.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Laudable",
+    "url": "https://laudable.com",
+    "analysis": "Score: 9/10\nExplanation: Laudable's AI product that focuses on gathering customer testimonials, quotes, and reviews could greatly benefit from Aviato.co's data API for People & Company profiles. By integrating Aviato.co's data on work experience, job history, and compensation, Laudable could enhance the accuracy and depth of the customer evidence and proof they collect from Gong and Chorus call recordings.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Together AI",
+    "url": "https://together.ai",
+    "analysis": "Score: 9/10\nExplanation: The company would be a good fit as they are offering AI solutions and likely have a need for people data, especially for training and managing AI models. The product aligns well with providing data on work experience, job history, and other relevant information for tech workers.\nVerdict: Yes",
+    "score": 9
+  }
+]

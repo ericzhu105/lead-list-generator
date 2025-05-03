@@ -1,0 +1,95 @@
+{
+  "current": 22,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 12,
+  "current_company": "Perygee",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249362.417506,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "DataChat",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.01664,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.586308,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Docket",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249363.706111,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Terminal ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.22117,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.436673,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249364.904174,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Addressable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249365.227931,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249365.86531,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "BioRender",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249366.047778,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Galileo",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746249366.619002,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Perygee",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249367.136476,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249362.41742
+}

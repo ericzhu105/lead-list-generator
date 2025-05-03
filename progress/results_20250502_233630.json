@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Switchboard",
+    "url": NaN,
+    "analysis": "Score: 8/10\nExplanation: This company would be a good fit as they are a developer of an error monitoring and incident response platform for Zapier and Integromat, which are tech-focused platforms. They process workflows and monitor integrations, indicating a need for data on tech workers.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Synthio",
+    "url": "https://synthiocorp.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co because they are a B2B company that explicitly needs data on people for building buyer personas and finding new contacts in their global database. They have a clear use case for people data in their software platform.\nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Envox",
+    "url": "https://cluttermedia.com",
+    "analysis": "Based on the provided criteria, Aviato.co would be a definite fit for the following reasons:\n\n1. Our product aligns well with companies that require data on work experience, job history, compensation, and other details of tech workers.\n2. Aviato.co would be an excellent fit for AI Recruiting tools that need people data for sourcing, B2B companies that need data on people and companies for enrichment, and companies explicitly working with tech worker data.\n\nGiven the alignment with these criteria, I would score Aviato.co a 10/10.\n\nVerdict: Yes",
+    "score": 10
+  },
+  {
+    "name": "Poised",
+    "url": "https://poised.com",
+    "analysis": "Score: 9/10\nExplanation: Aviato.co would be a good fit for your product as they offer AI-powered communication coaching to help individuals improve their communication skills in real-time. This service would likely benefit from access to data on tech workers' work experience, email, job history, etc., to enhance their platform and provide more personalized insights to users.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Aircover.ai",
+    "url": "https://aircover.ai",
+    "analysis": "Score: 9/10  \nExplanation: Aircover.ai is a strong fit for Aviato.co as they provide sales call guidance and competitive intelligence tools that would benefit from data on people and companies. The need for tailored content, coaching, and technical insights align well with Aviato.co's offering of data API for people & company profiles.  \nVerdict: YES",
+    "score": 9
+  },
+  {
+    "name": "Regie.ai",
+    "url": "https://regie.ai",
+    "analysis": "1. Score: 9/10\n2. Explanation: This company would be a good fit because they provide an AI-powered solution for prospecting, which aligns well with Aviato.co's Data API for People & Company profiles tailored primarily for tech workers. Regie.ai's focus on streamlining sales outreach aligns with the need for accurate and detailed data on potential leads in the tech industry.\n3. Verdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Eli",
+    "url": "https://eli.build",
+    "analysis": "Score: 8/10\nExplanation: This company seems to have tech workers involved in their projects, as evidenced by the mention of repositories on GitHub. The data API for People & Company profiles could potentially help them in their endeavors.\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Certn",
+    "url": "https://certn.co",
+    "analysis": "1. Score: 10/10\n2. Explanation: Certn is a definite fit for Aviato.co because they explicitly mention relying on background screening to secure the right people. This indicates a clear need for people data, aligning perfectly with Aviato.co's Data API for People & Company profiles, specifically designed for tech workers. Additionally, the 80% reduced time to hire further emphasizes the company's focus on efficient recruitment, making them a strong match.\n3. Verdict: Yes",
+    "score": 10
+  },
+  {
+    "name": "HappyRobot",
+    "url": "https://happyrobot.ai",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit for Aviato.co because they specialize in providing data API for People & Company profiles, especially for tech workers. The company described in the company description seems to be using AI workers to manage conversations and log data, which indicates a need for people data and potentially a use case for enriching their data with tech worker information.\nVerdict: Yes",
+    "score": 9
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "current": 5,
+  "total": 7,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 2,
+  "current_company": "Bitgreen",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746251858.69545,
+      "analysis_time": 0
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746251859.066374,
+      "analysis_time": 0.7
+    }
+  ],
+  "start_time": 1746251858.694809
+}

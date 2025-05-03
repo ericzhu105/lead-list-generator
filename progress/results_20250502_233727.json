@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Arist",
+    "url": "https://arist.co",
+    "analysis": "Score: 10/10\n\nExplanation: This company would be a perfect fit for Aviato.co as they are clearly in the business of providing AI-driven solutions for employee training. Their use of AI to deliver training signifies a reliance on data on people, making them an ideal customer for a data API focusing on people profiles. \n\nVerdict: Yes",
+    "score": 10
+  },
+  {
+    "name": "Shelf",
+    "url": "https://shelf.io",
+    "analysis": "Score: 9/10\nExplanation: The company \"Eliminate bad data before it becomes the wrong answer\" aligns well with Aviato.co's product offering of Data API for People & Company profiles. They provide next-generation knowledge management, which suggests they may need accurate data on people and companies for their GenAI answers.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "TypingDNA",
+    "url": "https://typingdna.com",
+    "analysis": "Score: 9/10\n\nExplanation: This company would be a good fit because they provide tools for continuous authentication of employees and verifying users at log-in, indicating a need for people data and authentication methods.\n\nVerdict: Yes",
+    "score": 9
+  }
+]

@@ -1,0 +1,382 @@
+{
+  "current": 135,
+  "total": 7,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 53,
+  "current_company": "CoinBanken",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249773.551711,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Fuisz Video, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249773.865194,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "RapidValue",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249774.359664,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Vivid Theory",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249774.44623,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249774.492799,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "IGNITE IMPULSE, INC.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249774.709043,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Monograph",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249775.155645,
+      "analysis_time": 0.6
+    },
+    {
+      "name": "Spekit",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249775.276984,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249775.639302,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "X-energy",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249775.766295,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "OEwaves Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249775.773752,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249776.729146,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Assured Allies",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249776.745381,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Ebyline, Inc. an IZEA Innovation",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249776.78216,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Hubly Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249776.78847,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "VergeSense",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249777.536643,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "BlueRock Therapeutics",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249777.663199,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Tanbark Molded Fiber Products",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249777.763241,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249777.798587,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Prellis Biologics",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249778.597581,
+      "analysis_time": 0
+    },
+    {
+      "name": "Vectara",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249778.633035,
+      "analysis_time": 1.3
+    },
+    {
+      "name": "RNAimmune",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249778.719152,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Brightline",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249779.997732,
+      "analysis_time": 0
+    },
+    {
+      "name": "Kard",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249783.19724,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "IMAJION",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249784.223241,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Tropic",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249784.229514,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "mozaic.io",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249785.039842,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "nBand Communications",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249785.204446,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "FleetNurse",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249785.936728,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Canalyst",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249785.997135,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "My Intelligent Machines Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249786.658674,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "CGE Energy",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249787.128283,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Hopkins Bellemeade",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249787.536797,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Renal Solutions",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249787.980984,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "nBand Communications",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249788.315637,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Kriya Therapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249788.348261,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Highway Benefits",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249788.97741,
+      "analysis_time": 2.8
+    },
+    {
+      "name": "Canalyst",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249789.169356,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "Amytrx Therapeutics, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249789.338236,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "CGE Energy",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249789.842056,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Fennel",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249790.318877,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Spring Science",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249791.26829,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "FI Navigator Corporation",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249791.801245,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Aelita Software",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249791.854041,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "Laudable",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249792.040924,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Gestalt",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249792.799839,
+      "analysis_time": 1.1
+    },
+    {
+      "name": "Akiri",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249792.885691,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Air Space Intelligence",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249792.906468,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "Retrium",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249793.817993,
+      "analysis_time": 0
+    },
+    {
+      "name": "Porosity",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249793.822362,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "ReGelTec, Inc",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249793.884124,
+      "analysis_time": 0.9
+    },
+    {
+      "name": "BlackFog",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249794.74291,
+      "analysis_time": 0.7
+    },
+    {
+      "name": "CoinBanken",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249794.772586,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249773.550528
+}

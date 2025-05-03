@@ -1,0 +1,95 @@
+{
+  "current": 75,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 12,
+  "current_company": "Vivid Theory",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249763.365623,
+      "analysis_time": 1.4
+    },
+    {
+      "name": "Versanis Bio",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249763.367292,
+      "analysis_time": 5.3
+    },
+    {
+      "name": "Xooker",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.062066,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.785637,
+      "analysis_time": 1.2
+    },
+    {
+      "name": "Octet Scientific, Inc.",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249764.858372,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "ALLO - Backed by Zoom",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249765.636242,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249765.937284,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Neomar",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249766.408374,
+      "analysis_time": 1.5
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249766.749324,
+      "analysis_time": 0.8
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746249767.593501,
+      "analysis_time": 1.0
+    },
+    {
+      "name": "CommonGround",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249767.923069,
+      "analysis_time": 0
+    },
+    {
+      "name": "Vivid Theory",
+      "status": "analyzing",
+      "score": 0,
+      "start_time": 1746249768.693119,
+      "analysis_time": 0
+    }
+  ],
+  "start_time": 1746249763.363448
+}

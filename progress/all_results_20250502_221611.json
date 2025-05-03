@@ -1,0 +1,68 @@
+[
+  {
+    "name": "RIOS Intelligent Machines",
+    "url": "https://rios.ai",
+    "analysis": "Score: 1/10  \nExplanation: This company description focuses on empowering manufacturers to improve industrial process control with AI agents. There is no explicit mention or indication of needing data on people or companies, especially tech workers. Thus, they do not align with Aviato.co's product offering.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "BoomerangFX",
+    "url": "https://boomerangfx.com",
+    "analysis": "Score: 2/10\nExplanation: The company description indicates a focus on building patient loyalty through a healthcare-centered solution, which does not align directly with the need for data API for tech worker profiles.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Terminal ",
+    "url": "https://withterminal.com",
+    "analysis": "Score: 2/10\nExplanation: The company described focuses on adding telematics integrations to applications, without any mention of needing people or company data. The primary service provided does not align with the data API offered by Aviato.co.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "SuperOrdinary",
+    "url": "https://superordinary.co",
+    "analysis": "Score: 5/10\nExplanation: Based on the limited information provided in the company description, it is unclear if WEME explicitly requires people data for their operations. If WEME's services involve working directly with tech worker data or if they need data on people and companies for enrichment, they could potentially be a good fit. However, without more detailed information, it is challenging to determine an exact fit.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "BioRender",
+    "url": "https://biorender.com",
+    "analysis": "Score: 2/10\nExplanation: The company, BioRender, focuses on providing icons and templates for life sciences and scientific illustrations, which does not align with the need for data on tech workers specifically. There is no direct need for people data in their product offering.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Perygee",
+    "url": "https://perygee.com",
+    "analysis": "Score: 3/10\nExplanation: Based on the description provided, Perygee does not explicitly indicate a need for people & company profiles data or a direct use case for tech worker data. Their focus appears to be on security intelligence, rather than on utilizing data API for People & Company profiles.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "DocbookMD",
+    "url": "https://docbookmd.com",
+    "analysis": "Score: 2/10  \nExplanation: This company does not align with Aviato.co's product offerings as they are focused on providing a platform for physician communication, with no explicit need for people data related to tech workers.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Salmedix Inc",
+    "url": NaN,
+    "analysis": "Error analyzing company: can only concatenate str (not \"float\") to str",
+    "score": 0
+  },
+  {
+    "name": "120Water",
+    "url": "https://120water.com",
+    "analysis": "Score: 2/10\nExplanation: The company's focus on drinking water program management and compliance does not align with the need for people and company data, specifically for tech workers.\nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "LUK Network",
+    "url": "https://luknetwork.com",
+    "analysis": "Score: 2/10  \nExplanation: L\u00dcK Network is focused on production payroll, talent casting, and model bookings, which do not align directly with the need for data API for People & Company profiles of tech workers. There is no explicit mention of requiring people data such as work experience, job history, or compensation.  \nVerdict: No",
+    "score": 0
+  },
+  {
+    "name": "Oka, The Carbon Insurance Company",
+    "url": "https://carboninsurance.co",
+    "analysis": "Score: 1/10\nExplanation: The company description indicates a focus on carbon insurance solutions and de-risking global carbon markets. There is no clear indication of a need for people data, work experience, job history, or other data related to tech workers, which is the primary offering of Aviato.co. \nVerdict: No",
+    "score": 0
+  }
+]

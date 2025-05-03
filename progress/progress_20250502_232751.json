@@ -1,0 +1,192 @@
+{
+  "current": 20,
+  "total": 7207,
+  "status": "processing",
+  "processed_companies": 0,
+  "analyzed_companies": 20,
+  "current_company": "BioRender",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253662.376344,
+      "analysis_time": 1.4,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Sway",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253662.446815,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253662.454666,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Flume Health",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253662.461869,
+      "analysis_time": 5.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Stanza",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253662.471538,
+      "analysis_time": 1.2,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253667.456419,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Bitgreen",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253667.469517,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Impraise",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253667.480301,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Arkuda Therapeutics",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253667.49116,
+      "analysis_time": 0.7,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Acenxion Biosystems",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253667.511334,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Dura Software",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253668.66255,
+      "analysis_time": 0.8,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "DataChat",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253668.672814,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BoomerangFX",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253668.683164,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Docket",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253668.692971,
+      "analysis_time": 1.0,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Terminal ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253668.701616,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Colabo Inc ",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253669.669061,
+      "analysis_time": 1.6,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "SuperOrdinary",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253669.675924,
+      "analysis_time": 1.3,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Addressable",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253669.683585,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "Pump.co",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253669.689799,
+      "analysis_time": 1.1,
+      "retry_count": 0,
+      "error_message": null
+    },
+    {
+      "name": "BioRender",
+      "status": "completed",
+      "score": 0,
+      "start_time": 1746253669.698845,
+      "analysis_time": 0.9,
+      "retry_count": 0,
+      "error_message": null
+    }
+  ],
+  "start_time": 1746253662.375069,
+  "should_stop": false
+}

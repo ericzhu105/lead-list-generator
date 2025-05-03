@@ -1,0 +1,75 @@
+{
+  "current": 7,
+  "total": 7,
+  "status": "completed",
+  "processed_companies": 0,
+  "analyzed_companies": 7,
+  "current_company": "Bitgreen",
+  "company_progress": [
+    {
+      "name": "RIOS Intelligent Machines",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252712.297672,
+      "analysis_time": 11.7,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Sway",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252713.48265,
+      "analysis_time": 11.6,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Veeam Kasten",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252715.306607,
+      "analysis_time": 10.6,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Flume Health",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252716.031994,
+      "analysis_time": 10.8,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Stanza",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252716.848758,
+      "analysis_time": 11.0,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "ESP Pharma",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252727.843253,
+      "analysis_time": 5.4,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    },
+    {
+      "name": "Bitgreen",
+      "status": "error",
+      "score": 0,
+      "start_time": 1746252728.565843,
+      "analysis_time": 5.9,
+      "retry_count": 3,
+      "error_message": "object ChatCompletion can't be used in 'await' expression"
+    }
+  ],
+  "start_time": 1746252712.296428,
+  "should_stop": false
+}

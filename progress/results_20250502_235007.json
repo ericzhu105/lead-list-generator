@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stanza",
+    "url": "https://stanzacal.com",
+    "analysis": "Score: 9/10  \nExplanation: Stanza is a platform that connects brands and influencers to create impactful marketing campaigns. As a data API provider for people and company profiles, Aviato.co would be a good fit for Stanza as it could enhance their platform with detailed insights on influencers, their work experience, and job history for more targeted marketing campaigns.  \nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Peach",
+    "url": "https://peachd.com",
+    "analysis": "Based on the company description provided, Aviato.co would be a:\n\n**Score: 9/10**\n**Verdict: Yes**\n\n**Explanation:**\n\nAviato.co offers a Data API for People & Company profiles focused on tech workers, which aligns well with companies that require data on work experience, email, job history, and compensation for tech workers. The product caters specifically to AI recruiting tools, sourcing tools needing B2B People data, and B2B companies seeking people and company data enrichment, making it a definite match for Aviato.co's offering. Companies explicitly working with tech worker data would greatly benefit from Aviato.co's services, which solidifies their fit as a strong prospect.",
+    "score": 9
+  },
+  {
+    "name": "Draup",
+    "url": "https://draup.com",
+    "analysis": "Score: 8/10\n\nThis company would be a good fit for Aviato.co's Data API for People & Company profiles because they are a developer of an enterprise decision-making platform specifically for sales and talent domains. Their need for a platform that tracks millions of data points about companies and decision-makers aligns with Aviato.co's offering of data on work experience, email, job history, etc. for tech workers. Therefore, they have a clear use case and explicit need for people and company data.\n\nVerdict: Yes",
+    "score": 8
+  },
+  {
+    "name": "Graviti",
+    "url": "https://graviti.com",
+    "analysis": "Score: 9/10\nExplanation: This company would be a good fit as they provide a data platform for companies and teams, indicating a clear need for managing datasets and collaborating on data. The mention of data visualization and data versioning also suggests a tech-oriented approach, which aligns well with Aviato.co's data API for tech workers.\nVerdict: Yes",
+    "score": 9
+  },
+  {
+    "name": "Sensible",
+    "url": "https://sensible.so",
+    "analysis": "Score: 8/10\nExplanation: Aviato.co would be a good fit for Sensible because they offer a Data API for People & Company profiles, which aligns well with Sensible's ability to extract data from various documents like resumes, invoices, contracts, etc. Sensible can benefit from Aviato.co's tech worker data for enriching their dataset and improving their data parsing capabilities.\nVerdict: Yes",
+    "score": 8
+  }
+]
